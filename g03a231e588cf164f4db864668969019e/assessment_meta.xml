@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz identifier="g03a231e588cf164f4db864668969019e" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
-  <title>Quiz (U4): Weathering, Soil and Erosion</title>
+  <title>Quiz (U4): Weathering, Soil, and Erosion</title>
   <description>&lt;p&gt;Complete the 15 questions included in this quiz. There are ten multiple choice questions and five true/false questions. &lt;strong&gt;This quiz is due by Sunday at 11:59pm.&lt;/strong&gt;&lt;/p&gt;</description>
   <lock_at>2018-02-01T05:59:00</lock_at>
   <unlock_at>2018-01-18T14:00:00</unlock_at>
@@ -27,7 +27,7 @@
   <only_visible_to_overrides>false</only_visible_to_overrides>
   <module_locked>false</module_locked>
   <assignment identifier="g55c8237ba2532cf08ee2fcbfeec6239e">
-    <title>Quiz (U4): Weathering, Soil and Erosion</title>
+    <title>Quiz (U4): Weathering, Soil, and Erosion</title>
     <due_at>2018-01-29T05:59:00</due_at>
     <lock_at>2018-02-01T05:59:00</lock_at>
     <unlock_at>2018-01-18T14:00:00</unlock_at>

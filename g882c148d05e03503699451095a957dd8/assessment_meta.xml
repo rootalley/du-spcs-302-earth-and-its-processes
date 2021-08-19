@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz identifier="g882c148d05e03503699451095a957dd8" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
-  <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+  <title>Quiz (U3): Earthquakes and Earth's Structure</title>
   <description>&lt;p&gt;Complete the 15 questions included in this quiz. There are ten multiple choice questions and five true/false questions. &lt;strong&gt;This quiz is due by Sunday at 11:59pm.&lt;/strong&gt;&lt;/p&gt;</description>
   <lock_at>2018-01-25T05:59:00</lock_at>
   <unlock_at>2018-01-11T14:00:00</unlock_at>
@@ -27,7 +27,7 @@
   <only_visible_to_overrides>false</only_visible_to_overrides>
   <module_locked>false</module_locked>
   <assignment identifier="g2c6a9f0a26bb90e5f34d6d7289a3f1fb">
-    <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+    <title>Quiz (U3): Earthquakes and Earth's Structure</title>
     <due_at>2018-01-22T05:59:00</due_at>
     <lock_at>2018-01-25T05:59:00</lock_at>
     <unlock_at>2018-01-11T14:00:00</unlock_at>

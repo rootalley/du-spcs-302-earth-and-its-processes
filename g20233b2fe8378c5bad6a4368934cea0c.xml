@@ -4,7 +4,7 @@
   <title>Discuss (U1): Earth Systems</title>
   <position/>
   <type>topic</type>
-  <discussion_type>side_comment</discussion_type>
+  <discussion_type>threaded</discussion_type>
   <has_group_category>false</has_group_category>
   <workflow_state>active</workflow_state>
   <module_locked>false</module_locked>
@@ -16,7 +16,7 @@
     <title>Discuss (U1): Earth Systems</title>
     <due_at>2018-01-08T05:59:00</due_at>
     <lock_at>2018-01-11T05:59:00</lock_at>
-    <unlock_at>2018-01-01T14:00:00</unlock_at>
+    <unlock_at/>
     <module_locked>false</module_locked>
     <all_day_date>2018-01-07</all_day_date>
     <assignment_group_identifierref>g2cb7aaf070369ac7bfe341fb2a3baf20</assignment_group_identifierref>

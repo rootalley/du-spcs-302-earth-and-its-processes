@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz identifier="g828247a6d2ada0f86b6e5c8d2b4161ee" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
-  <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+  <title>Quiz (U5): Fresh Water Reading and Video</title>
   <description>&lt;p&gt;Complete the 11 questions included in this quiz. There are ten multiple choice questions related to the reading and one essay questions pertaining to the "Water Development" video. &lt;strong&gt;This quiz is due by Sunday at 11:59pm.&lt;/strong&gt;&lt;/p&gt;</description>
   <lock_at>2018-02-08T05:59:00</lock_at>
   <unlock_at>2018-01-25T14:00:00</unlock_at>
@@ -27,7 +27,7 @@
   <only_visible_to_overrides>false</only_visible_to_overrides>
   <module_locked>false</module_locked>
   <assignment identifier="g17f8accfb4c759730ea7dcd8526e5c7b">
-    <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+    <title>Quiz (U5): Fresh Water Reading and Video</title>
     <due_at>2018-02-05T05:59:00</due_at>
     <lock_at>2018-02-08T05:59:00</lock_at>
     <unlock_at>2018-01-25T14:00:00</unlock_at>

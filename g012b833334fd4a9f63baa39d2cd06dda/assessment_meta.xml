@@ -3,7 +3,7 @@
   <title>Final Exam</title>
   <description>&lt;p&gt;Here is your Final Exam. There are multiple choice questions worth 3 points each, True/ False questions worth 3 points each and 3 mini essay questions worth 6 points each. The mini essay questions require a short paragraph answer -- meaning more than 2 sentences. &amp;nbsp;&lt;/p&gt;</description>
   <lock_at>2018-02-26T05:59:00</lock_at>
-  <unlock_at>2018-02-19T14:00:00</unlock_at>
+  <unlock_at>2018-02-15T14:00:00</unlock_at>
   <due_at>2018-02-26T05:59:00</due_at>
   <shuffle_answers>false</shuffle_answers>
   <scoring_policy>keep_highest</scoring_policy>
@@ -30,7 +30,7 @@
     <title>Final Exam</title>
     <due_at>2018-02-26T05:59:00</due_at>
     <lock_at>2018-02-26T05:59:00</lock_at>
-    <unlock_at>2018-02-19T14:00:00</unlock_at>
+    <unlock_at>2018-02-15T14:00:00</unlock_at>
     <module_locked>false</module_locked>
     <all_day_date>2018-02-25</all_day_date>
     <peer_reviews_due_at>2016-05-03T03:00:00</peer_reviews_due_at>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <topic xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imsdt_v1p1  http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imsdt_v1p1.xsd">
   <title>STUDENT LOUNGE</title>
-  <text texttype="text/html">&lt;p&gt;&lt;img role="presentation" src="https://dominicanu.instructure.com/courses/1730746/files/193868821/preview" alt="" width="573" height="229" data-api-endpoint="https://dominicanu.instructure.com/api/v1/courses/1730746/files/193868821" data-api-returntype="File"&gt;&lt;/p&gt;
+  <text texttype="text/html">&lt;p style="text-align: center;"&gt;
+    &lt;img role="presentation" src="https://dominicanu.instructure.com/courses/1730746/files/193868821/preview" alt="" width="573" height="229" data-api-endpoint="https://dominicanu.instructure.com/api/v1/courses/1730746/files/193868821" data-api-returntype="File"&gt;
+&lt;/p&gt;
 &lt;p&gt;Thanks for dropping by the Student Lounge!&lt;/p&gt;
 &lt;p&gt;This is a space to stop by and ask a questions of your fellow students or the instructor. Questions can range from something that sparked a thought in the material to non-academic or even things not directly related to course content. This space is yours, so make the most of it.&lt;/p&gt;
 &lt;h4&gt;Good example student lounge questions:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;I know someone told me at some point how to get my DU ID, but I forgot how to get it, where to go and if it costs anything. Can anyone help me out please?&lt;/li&gt;
-&lt;li&gt;I am struggling with writing my papers in APA style. Does anyone have any suggested internet sites that I could look up to improve my understanding of APA guidelines? Thanks!&lt;/li&gt;
+    &lt;li&gt;I know someone told me at some point how to get my DU ID, but I forgot how to get it, where to go and if it costs anything. Can anyone help me out please?&lt;/li&gt;
+    &lt;li&gt;I am struggling with writing my papers in APA style. Does anyone have any suggested internet sites that I could look up to improve my understanding of APA guidelines? Thanks!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Maybe not a good student lounge question:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Dear Professor, why did I get a C- on my last paper? I think everyone else got an A, so why did I get a C-? - This should be reserved for a private conversation between the instructor and the student.&lt;/li&gt;
+    &lt;li&gt;Dear Professor, why did I get a C- on my last paper? I think everyone else got an A, so why did I get a C-? (This should be reserved for a private conversation between the instructor and the student.)&lt;/li&gt;
 &lt;/ul&gt;</text>
 </topic>

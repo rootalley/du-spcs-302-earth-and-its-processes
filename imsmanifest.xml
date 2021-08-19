@@ -12,7 +12,7 @@
       <lomimscc:lifeCycle>
         <lomimscc:contribute>
           <lomimscc:date>
-            <lomimscc:dateTime>2021-08-18</lomimscc:dateTime>
+            <lomimscc:dateTime>2021-08-19</lomimscc:dateTime>
           </lomimscc:date>
         </lomimscc:contribute>
       </lomimscc:lifeCycle>
@@ -54,7 +54,7 @@
           </item>
         </item>
         <item identifier="g5d5e5aa00213872835a8042620b9eb3e">
-          <title>Unit 1: Earth Systems - Rocks &amp; Minerals</title>
+          <title>Unit 1: Earth Systems - Rocks and Minerals</title>
           <item identifier="g18af0b6bb15a1df310f0f21ccb9927df" identifierref="g500567bc1014cb7f5bedcddffc58bbe9">
             <title>Unit 1 Objectives</title>
           </item>
@@ -84,7 +84,7 @@
           </item>
         </item>
         <item identifier="ge4b0936cd73187ba462b406fc5ca9329">
-          <title>Unit 2: Geologic Time &amp; Resources</title>
+          <title>Unit 2: Geologic Time and Resources</title>
           <item identifier="g451244cc94730162648a34f2e8fb5d8e" identifierref="ge7f5b1b418b4746246511a0aa8688a36">
             <title>Unit 2 Objectives</title>
           </item>
@@ -111,7 +111,7 @@
           </item>
         </item>
         <item identifier="g3384acc3e00d862a8664935fde346237">
-          <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes &amp; Volcanoes</title>
+          <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes, and Volcanoes</title>
           <item identifier="g8db81990c3b7a6a5100ff2752877d3e1" identifierref="g5c85ce718c3d31ad32e724abc61d3132">
             <title>Unit 3 Objectives</title>
           </item>
@@ -122,7 +122,7 @@
             <title>Read: Chapter 7 - Earthquakes and the Earth's Structure</title>
           </item>
           <item identifier="g1b4a527497cf3da2b164db7758a757fd" identifierref="g882c148d05e03503699451095a957dd8">
-            <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+            <title>Quiz (U3): Earthquakes and Earth's Structure</title>
           </item>
           <item identifier="gaa6b0b647e052897b0191726b3a23427" identifierref="ga696121688d4fe8333d9bf3b7505811d">
             <title>Discuss (U3): Tectonic Plates</title>
@@ -131,17 +131,17 @@
             <title>Read: Chapter 8 - Volcanos and Plutons</title>
           </item>
           <item identifier="g71b0831d3c11535b9eb6e6dc2f1202a9" identifierref="g194ce39f34c0235b7ff80b230f0ad0f1">
-            <title>Watch: Earthquakes &amp; Volcanoes</title>
+            <title>Watch: Earthquakes and Volcanoes</title>
           </item>
           <item identifier="ge42ae411c4282edd8f447e72f14e7292" identifierref="g8e28f0d18c674e3d52473f9ce4b825b2">
-            <title>Write (U3): Earthquakes &amp; Volcanoes</title>
+            <title>Write (U3): Earthquakes and Volcanoes</title>
           </item>
           <item identifier="g7fdf8fc75a194bdf85bab9cfc27e62d3" identifierref="g0ec0fc514e61f3ab8e3fd98ef7efe628">
             <title>Discuss (U3): Volcanoes</title>
           </item>
         </item>
         <item identifier="g037c7544fd6c6ff34e49b85460240b9b">
-          <title>Unit 4: Mountains, Weathering, Soil &amp; Erosion</title>
+          <title>Unit 4: Mountains, Weathering, Soil, and Erosion</title>
           <item identifier="gdf30c9d2e6add289f1edff51fe99ba55" identifierref="gc1cfaee5eca2f1f9c0e4089d384edc57">
             <title>Unit 4 Objectives</title>
           </item>
@@ -158,17 +158,17 @@
             <title>Discuss (U4): Mountains</title>
           </item>
           <item identifier="gea91dd633ff810708c0e34e2a2aaa63b" identifierref="g2afbced9d65af542c821e33680637075">
-            <title>Read: Chapter 10 - Weathering, Soil and Erosion</title>
+            <title>Read: Chapter 10 - Weathering, Soil, and Erosion</title>
           </item>
           <item identifier="g3aad3bb0db9b47fa3f94930543ef92ef" identifierref="g03a231e588cf164f4db864668969019e">
-            <title>Quiz (U4): Weathering, Soil and Erosion</title>
+            <title>Quiz (U4): Weathering, Soil, and Erosion</title>
           </item>
           <item identifier="gbf699e0fd8eb0b935104fc9983f0522f" identifierref="g55ab3cbabdb7f5b6764420692ff08938">
             <title>Discuss (U4): Weathering and Erosion</title>
           </item>
         </item>
         <item identifier="g9b7fdc54076b6d2237972ae170cc5fc0">
-          <title>Unit 5: Fresh Water, Glaciers &amp; Glaciation</title>
+          <title>Unit 5: Freshwater, Glaciers, and Glaciation</title>
           <item identifier="gee634c8701372657b11eb73788a3bc0f" identifierref="g479be26e20e9a29aceb5a727f802c1ae">
             <title>Unit 5 Objectives</title>
           </item>
@@ -179,7 +179,7 @@
             <title>Watch: Water and Development</title>
           </item>
           <item identifier="gff85c8246d63e5f2680f336c81fa7d9e" identifierref="g828247a6d2ada0f86b6e5c8d2b4161ee">
-            <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+            <title>Quiz (U5): Fresh Water Reading and Video</title>
           </item>
           <item identifier="gc318d925d43b19400f52ef8c0bf399ae" identifierref="ga735a5c586667563bedcaaae774c066c">
             <title>Discuss (U5): The Great Lakes</title>
@@ -201,7 +201,7 @@
           </item>
         </item>
         <item identifier="g3cf32d35f65ccb8ac9021d938436cff8">
-          <title>Unit 6: Deserts &amp; Wind - Oceans &amp; Coastlines</title>
+          <title>Unit 6: Deserts and Wind, Oceans and Coastlines</title>
           <item identifier="g47b10e5cab082341b1d51edc5c2e3dd1" identifierref="g6f9878ea1490ab283f6c0e66c0bbcdba">
             <title>Unit 6 Objectives</title>
           </item>
@@ -231,7 +231,7 @@
           </item>
         </item>
         <item identifier="g5d47c1668105c548e4be029f65cffe7d">
-          <title>Unit 7: Atmosphere, Weather, Energy &amp; Pollution</title>
+          <title>Unit 7: Atmosphere, Weather, Energy, and Pollution</title>
           <item identifier="g7b19d797f59c65ca3b81af9e51202a8c" identifierref="g6026d1538135da703f148719c86a70fd">
             <title>Unit 7 Objectives</title>
           </item>
@@ -248,7 +248,7 @@
             <title>Read: Chapter 18 - Energy Balance in the Atmosphere</title>
           </item>
           <item identifier="g797edc6df72a794cdbcb383fd34ba701" identifierref="g15304531cb9dda677c6d59eddc995aa3">
-            <title>Read: Chapter 19 - Moisture, Clouds and Weather</title>
+            <title>Read: Chapter 19 - Moisture, Clouds, and Weather</title>
           </item>
           <item identifier="gaa501e252976b2a3ae9d811a23f0e496" identifierref="g0cbce504b7d218b10cd53d68d6ee66f4">
             <title>Watch: Eyes in Outer Space - A Disney Educational Film on Weather</title>
@@ -258,7 +258,7 @@
           </item>
         </item>
         <item identifier="gf03a6d2dc630510db35d0973964c157d">
-          <title>Unit 8: Climate &amp; Climate Change</title>
+          <title>Unit 8: Climate and Climate Change</title>
           <item identifier="g2dd49925787bc7dc4c0b46263f18482f" identifierref="g1a06e444ea6f999d634afcec69c41452">
             <title>Unit 8 Objectives</title>
           </item>
@@ -269,13 +269,13 @@
             <title>Quiz (U8):  Climate</title>
           </item>
           <item identifier="gd0bced8c336b6d1d62db12ed90d936b9" identifierref="g4cb6b17506b51336fb95b057559291f9">
-            <title>Discuss (U8): Hardiness Zones &amp; Micro Climate</title>
+            <title>Discuss (U8): Hardiness Zones and Micro Climate</title>
           </item>
           <item identifier="g9e6c99ff8ebe3adcaa60ad5add041e7a" identifierref="g76ec24b6098de69eefb851cdf4805855">
             <title>Read: Chapter 21 - Climate Change</title>
           </item>
           <item identifier="g8bcea5419aec171632aedda117cfbeea" identifierref="g96e9717e7401deba52dfc48a47cd7aae">
-            <title>Watch: Disruption movie</title>
+            <title>Watch: Disruption Movie</title>
           </item>
           <item identifier="g39d210fba0c51724506f953ab4e16dc4" identifierref="gb3df68235ad2528321d1cccdfdf84535">
             <title>Discuss (U8): Climate Change &amp; the "Disruption" Movie</title>
@@ -300,26 +300,23 @@
       <file href="course_settings/media_tracks.xml"/>
       <file href="course_settings/canvas_export.txt"/>
     </resource>
-    <resource identifier="g500567bc1014cb7f5bedcddffc58bbe9" type="webcontent" href="wiki_content/unit-1-objectives.html">
-      <file href="wiki_content/unit-1-objectives.html"/>
+    <resource identifier="g840e95cfa96e417e6fcfee87f713e1b1" type="webcontent" href="wiki_content/watch-ocean-life-video-clips.html">
+      <file href="wiki_content/watch-ocean-life-video-clips.html"/>
     </resource>
     <resource identifier="ge7f5b1b418b4746246511a0aa8688a36" type="webcontent" href="wiki_content/unit-2-objectives.html">
       <file href="wiki_content/unit-2-objectives.html"/>
+    </resource>
+    <resource identifier="g479be26e20e9a29aceb5a727f802c1ae" type="webcontent" href="wiki_content/unit-5-objectives.html">
+      <file href="wiki_content/unit-5-objectives.html"/>
+    </resource>
+    <resource identifier="g6026d1538135da703f148719c86a70fd" type="webcontent" href="wiki_content/unit-7-objectives.html">
+      <file href="wiki_content/unit-7-objectives.html"/>
     </resource>
     <resource identifier="g5c85ce718c3d31ad32e724abc61d3132" type="webcontent" href="wiki_content/unit-3-objectives.html">
       <file href="wiki_content/unit-3-objectives.html"/>
     </resource>
     <resource identifier="gc1cfaee5eca2f1f9c0e4089d384edc57" type="webcontent" href="wiki_content/unit-4-objectives.html">
       <file href="wiki_content/unit-4-objectives.html"/>
-    </resource>
-    <resource identifier="g479be26e20e9a29aceb5a727f802c1ae" type="webcontent" href="wiki_content/unit-5-objectives.html">
-      <file href="wiki_content/unit-5-objectives.html"/>
-    </resource>
-    <resource identifier="g6f9878ea1490ab283f6c0e66c0bbcdba" type="webcontent" href="wiki_content/unit-6-objectives.html">
-      <file href="wiki_content/unit-6-objectives.html"/>
-    </resource>
-    <resource identifier="g6026d1538135da703f148719c86a70fd" type="webcontent" href="wiki_content/unit-7-objectives.html">
-      <file href="wiki_content/unit-7-objectives.html"/>
     </resource>
     <resource identifier="g1a06e444ea6f999d634afcec69c41452" type="webcontent" href="wiki_content/unit-8-objectives.html">
       <file href="wiki_content/unit-8-objectives.html"/>
@@ -360,11 +357,11 @@
     <resource identifier="g906bb832d613ddfe92f690d6cfa75f11" type="webcontent" href="wiki_content/read-chapter-7-earthquakes-and-the-earths-structure.html">
       <file href="wiki_content/read-chapter-7-earthquakes-and-the-earths-structure.html"/>
     </resource>
-    <resource identifier="g580c1adaf0e986dbcf39ffcc09c82faf" type="webcontent" href="wiki_content/read-chapter-9-mountains.html">
-      <file href="wiki_content/read-chapter-9-mountains.html"/>
-    </resource>
     <resource identifier="g2afbced9d65af542c821e33680637075" type="webcontent" href="wiki_content/read-chapter-10-weathering-soil-and-erosion.html">
       <file href="wiki_content/read-chapter-10-weathering-soil-and-erosion.html"/>
+    </resource>
+    <resource identifier="g580c1adaf0e986dbcf39ffcc09c82faf" type="webcontent" href="wiki_content/read-chapter-9-mountains.html">
+      <file href="wiki_content/read-chapter-9-mountains.html"/>
     </resource>
     <resource identifier="gac1ed8aec99cdee21c62a320cc948ef5" type="webcontent" href="wiki_content/read-chapter-11-fresh-water-streams-lakes-wetlands-and-groundwater.html">
       <file href="wiki_content/read-chapter-11-fresh-water-streams-lakes-wetlands-and-groundwater.html"/>
@@ -408,14 +405,8 @@
     <resource identifier="gc855f21c1281916500ed7f94b977abf1" type="webcontent" href="wiki_content/read-chapter-8-volcanos-and-plutons.html">
       <file href="wiki_content/read-chapter-8-volcanos-and-plutons.html"/>
     </resource>
-    <resource identifier="g840e95cfa96e417e6fcfee87f713e1b1" type="webcontent" href="wiki_content/watch-ocean-life-video-clips.html">
-      <file href="wiki_content/watch-ocean-life-video-clips.html"/>
-    </resource>
     <resource identifier="g2b79f430291a140a245be0feb0c0e885" type="webcontent" href="wiki_content/watch-mountain-making.html">
       <file href="wiki_content/watch-mountain-making.html"/>
-    </resource>
-    <resource identifier="g194ce39f34c0235b7ff80b230f0ad0f1" type="webcontent" href="wiki_content/watch-earthquakes-and-volcanoes.html">
-      <file href="wiki_content/watch-earthquakes-and-volcanoes.html"/>
     </resource>
     <resource identifier="gcab4ef366a4043ae6c2d082acd2a376a" type="webcontent" href="wiki_content/watch-a-brief-history-of-geologic-time.html">
       <file href="wiki_content/watch-a-brief-history-of-geologic-time.html"/>
@@ -429,8 +420,17 @@
     <resource identifier="g0cbce504b7d218b10cd53d68d6ee66f4" type="webcontent" href="wiki_content/watch-eyes-in-outer-space-a-disney-educational-film-on-weather.html">
       <file href="wiki_content/watch-eyes-in-outer-space-a-disney-educational-film-on-weather.html"/>
     </resource>
+    <resource identifier="g500567bc1014cb7f5bedcddffc58bbe9" type="webcontent" href="wiki_content/unit-1-objectives.html">
+      <file href="wiki_content/unit-1-objectives.html"/>
+    </resource>
     <resource identifier="g5526dc805510615bad1a46a53d30ff4d" type="webcontent" href="wiki_content/your-course-text.html">
       <file href="wiki_content/your-course-text.html"/>
+    </resource>
+    <resource identifier="g194ce39f34c0235b7ff80b230f0ad0f1" type="webcontent" href="wiki_content/watch-earthquakes-and-volcanoes.html">
+      <file href="wiki_content/watch-earthquakes-and-volcanoes.html"/>
+    </resource>
+    <resource identifier="g6f9878ea1490ab283f6c0e66c0bbcdba" type="webcontent" href="wiki_content/unit-6-objectives.html">
+      <file href="wiki_content/unit-6-objectives.html"/>
     </resource>
     <resource identifier="g21f30d7db347ec6878e852225207cd5b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g21f30d7db347ec6878e852225207cd5b/write-u1-how-the-earth-was-made.html">
       <file href="g21f30d7db347ec6878e852225207cd5b/write-u1-how-the-earth-was-made.html"/>
@@ -677,6 +677,9 @@
     </resource>
     <resource type="webcontent" identifier="g933c4d7fff063f5ef05c25cd67631545" href="web_resources/Uploaded Media/CengageTechSupportLogo.png">
       <file href="web_resources/Uploaded Media/CengageTechSupportLogo.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g8921ac74998b5bfdfc12d66059b99699" href="web_resources/Uploaded Media/discussion_rubric.png">
+      <file href="web_resources/Uploaded Media/discussion_rubric.png"/>
     </resource>
   </resources>
 </manifest>

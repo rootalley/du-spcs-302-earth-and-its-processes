@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
-  <assessment ident="g882c148d05e03503699451095a957dd8" title="Quiz (U3): Earthquakes &amp; Earth's Structure">
+  <assessment ident="g882c148d05e03503699451095a957dd8" title="Quiz (U3): Earthquakes and Earth's Structure">
     <qtimetadata>
       <qtimetadatafield>
         <fieldlabel>cc_maxattempts</fieldlabel>

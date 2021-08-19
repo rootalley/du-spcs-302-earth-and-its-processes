@@ -73,7 +73,7 @@
     </items>
   </module>
   <module identifier="g5d5e5aa00213872835a8042620b9eb3e">
-    <title>Unit 1: Earth Systems - Rocks &amp; Minerals</title>
+    <title>Unit 1: Earth Systems - Rocks and Minerals</title>
     <workflow_state>active</workflow_state>
     <position>2</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -93,7 +93,7 @@
         <workflow_state>active</workflow_state>
         <title>Read: Chapter 1 - Earth Systems</title>
         <identifierref>gddba23c7a57f9c7ef9a1ce82fe772329</identifierref>
-        <position>2</position>
+        <position>3</position>
         <new_tab/>
         <indent>0</indent>
       </item>
@@ -102,7 +102,7 @@
         <workflow_state>active</workflow_state>
         <title>Quiz (U1): Earth Systems</title>
         <identifierref>ge306063d6167b28a83ab5ac2e7878191</identifierref>
-        <position>3</position>
+        <position>4</position>
         <new_tab/>
         <indent>0</indent>
       </item>
@@ -111,7 +111,7 @@
         <workflow_state>active</workflow_state>
         <title>Discuss (U1): Earth Systems</title>
         <identifierref>g6f59b8edf1a594cb6b4c44954307830e</identifierref>
-        <position>4</position>
+        <position>5</position>
         <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
@@ -120,7 +120,7 @@
         <workflow_state>active</workflow_state>
         <title>Read: Chapter 2 - Minerals</title>
         <identifierref>gb6868c0d967ab39ba45737a1ee76a1ca</identifierref>
-        <position>5</position>
+        <position>6</position>
         <new_tab/>
         <indent>0</indent>
       </item>
@@ -129,7 +129,7 @@
         <workflow_state>active</workflow_state>
         <title>Read: Chapter 3 - Rocks</title>
         <identifierref>gdaaff8217c1afcd7f7516d0d2bab5ec5</identifierref>
-        <position>6</position>
+        <position>7</position>
         <new_tab/>
         <indent>0</indent>
       </item>
@@ -138,7 +138,7 @@
         <workflow_state>active</workflow_state>
         <title>Discuss (U1): Rocks and Minerals</title>
         <identifierref>g250c8da9d48a4758680a26d89275fce8</identifierref>
-        <position>7</position>
+        <position>8</position>
         <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
@@ -147,7 +147,7 @@
         <workflow_state>active</workflow_state>
         <title>Watch: How the Earth Was Made</title>
         <identifierref>g194859c2ef77af3e2cc188f7af6512af</identifierref>
-        <position>8</position>
+        <position>9</position>
         <new_tab/>
         <indent>0</indent>
       </item>
@@ -156,14 +156,43 @@
         <workflow_state>active</workflow_state>
         <title>Write (U1): How the Earth Was Made</title>
         <identifierref>g21f30d7db347ec6878e852225207cd5b</identifierref>
-        <position>9</position>
+        <position>10</position>
         <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
     </items>
+    <completionRequirements>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g18af0b6bb15a1df310f0f21ccb9927df</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g5f282aa47d8ce12c2f214a0698c61c71</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>gfadcbf500f217b2e3232a77eab77b32d</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g839e47786d0eda551681d09afd695654</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g38092d886765d1ab945fa5ca614c9206</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>gb394c26e56be430ddfc39d735b5695c8</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_contribute">
+        <identifierref>g7c7f84772bf973e6c7e164b733d1422f</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_contribute">
+        <identifierref>gb16f8d2445beb48b444c3e5dbd28b4d1</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g43d7f6a01e9df728d834f04660c6b728</identifierref>
+      </completionRequirement>
+    </completionRequirements>
   </module>
   <module identifier="ge4b0936cd73187ba462b406fc5ca9329">
-    <title>Unit 2: Geologic Time &amp; Resources</title>
+    <title>Unit 2: Geologic Time and Resources</title>
     <workflow_state>active</workflow_state>
     <position>3</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -242,9 +271,35 @@
         <indent>0</indent>
       </item>
     </items>
+    <completionRequirements>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g451244cc94730162648a34f2e8fb5d8e</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g65484a671d4d53302e0299bcf8e5cea8</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>gab49f704f556da6fb4abc73ded8a9527</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_mark_done">
+        <identifierref>g1cf1ffacd6c7f683cbdd035a47cca15a</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>gb53d66417f87d6cd44fd6fe031b604f6</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_contribute">
+        <identifierref>g161a0a4e2aaa6367662416a1de403f45</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_contribute">
+        <identifierref>gb4aa1f0feed142b17c7e05a885f5d4fe</identifierref>
+      </completionRequirement>
+      <completionRequirement type="must_submit">
+        <identifierref>g458894fa45a929df9e609dd1a2185866</identifierref>
+      </completionRequirement>
+    </completionRequirements>
   </module>
   <module identifier="g3384acc3e00d862a8664935fde346237">
-    <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes &amp; Volcanoes</title>
+    <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes, and Volcanoes</title>
     <workflow_state>active</workflow_state>
     <position>4</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -280,7 +335,7 @@
       <item identifier="g1b4a527497cf3da2b164db7758a757fd">
         <content_type>Quizzes::Quiz</content_type>
         <workflow_state>active</workflow_state>
-        <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+        <title>Quiz (U3): Earthquakes and Earth's Structure</title>
         <identifierref>g882c148d05e03503699451095a957dd8</identifierref>
         <position>4</position>
         <new_tab>false</new_tab>
@@ -307,7 +362,7 @@
       <item identifier="g71b0831d3c11535b9eb6e6dc2f1202a9">
         <content_type>WikiPage</content_type>
         <workflow_state>active</workflow_state>
-        <title>Watch: Earthquakes &amp; Volcanoes</title>
+        <title>Watch: Earthquakes and Volcanoes</title>
         <identifierref>g194ce39f34c0235b7ff80b230f0ad0f1</identifierref>
         <position>7</position>
         <new_tab>false</new_tab>
@@ -316,7 +371,7 @@
       <item identifier="ge42ae411c4282edd8f447e72f14e7292">
         <content_type>Assignment</content_type>
         <workflow_state>active</workflow_state>
-        <title>Write (U3): Earthquakes &amp; Volcanoes</title>
+        <title>Write (U3): Earthquakes and Volcanoes</title>
         <identifierref>g8e28f0d18c674e3d52473f9ce4b825b2</identifierref>
         <position>8</position>
         <new_tab>false</new_tab>
@@ -334,7 +389,7 @@
     </items>
   </module>
   <module identifier="g037c7544fd6c6ff34e49b85460240b9b">
-    <title>Unit 4: Mountains, Weathering, Soil &amp; Erosion</title>
+    <title>Unit 4: Mountains, Weathering, Soil, and Erosion</title>
     <workflow_state>active</workflow_state>
     <position>5</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -388,16 +443,16 @@
       <item identifier="gea91dd633ff810708c0e34e2a2aaa63b">
         <content_type>WikiPage</content_type>
         <workflow_state>active</workflow_state>
-        <title>Read: Chapter 10 - Weathering, Soil and Erosion</title>
+        <title>Read: Chapter 10 - Weathering, Soil, and Erosion</title>
         <identifierref>g2afbced9d65af542c821e33680637075</identifierref>
         <position>6</position>
-        <new_tab/>
+        <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
       <item identifier="g3aad3bb0db9b47fa3f94930543ef92ef">
         <content_type>Quizzes::Quiz</content_type>
         <workflow_state>active</workflow_state>
-        <title>Quiz (U4): Weathering, Soil and Erosion</title>
+        <title>Quiz (U4): Weathering, Soil, and Erosion</title>
         <identifierref>g03a231e588cf164f4db864668969019e</identifierref>
         <position>7</position>
         <new_tab>false</new_tab>
@@ -415,7 +470,7 @@
     </items>
   </module>
   <module identifier="g9b7fdc54076b6d2237972ae170cc5fc0">
-    <title>Unit 5: Fresh Water, Glaciers &amp; Glaciation</title>
+    <title>Unit 5: Freshwater, Glaciers, and Glaciation</title>
     <workflow_state>active</workflow_state>
     <position>6</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -451,10 +506,10 @@
       <item identifier="gff85c8246d63e5f2680f336c81fa7d9e">
         <content_type>Quizzes::Quiz</content_type>
         <workflow_state>active</workflow_state>
-        <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+        <title>Quiz (U5): Fresh Water Reading and Video</title>
         <identifierref>g828247a6d2ada0f86b6e5c8d2b4161ee</identifierref>
         <position>4</position>
-        <new_tab/>
+        <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
       <item identifier="gc318d925d43b19400f52ef8c0bf399ae">
@@ -514,7 +569,7 @@
     </items>
   </module>
   <module identifier="g3cf32d35f65ccb8ac9021d938436cff8">
-    <title>Unit 6: Deserts &amp; Wind - Oceans &amp; Coastlines</title>
+    <title>Unit 6: Deserts and Wind, Oceans and Coastlines</title>
     <workflow_state>active</workflow_state>
     <position>7</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -604,7 +659,7 @@
     </items>
   </module>
   <module identifier="g5d47c1668105c548e4be029f65cffe7d">
-    <title>Unit 7: Atmosphere, Weather, Energy &amp; Pollution</title>
+    <title>Unit 7: Atmosphere, Weather, Energy, and Pollution</title>
     <workflow_state>active</workflow_state>
     <position>8</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -658,10 +713,10 @@
       <item identifier="g797edc6df72a794cdbcb383fd34ba701">
         <content_type>WikiPage</content_type>
         <workflow_state>active</workflow_state>
-        <title>Read: Chapter 19 - Moisture, Clouds and Weather</title>
+        <title>Read: Chapter 19 - Moisture, Clouds, and Weather</title>
         <identifierref>g15304531cb9dda677c6d59eddc995aa3</identifierref>
         <position>6</position>
-        <new_tab/>
+        <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
       <item identifier="gaa501e252976b2a3ae9d811a23f0e496">
@@ -685,7 +740,7 @@
     </items>
   </module>
   <module identifier="gf03a6d2dc630510db35d0973964c157d">
-    <title>Unit 8: Climate &amp; Climate Change</title>
+    <title>Unit 8: Climate and Climate Change</title>
     <workflow_state>active</workflow_state>
     <position>9</position>
     <require_sequential_progress>false</require_sequential_progress>
@@ -721,7 +776,7 @@
       <item identifier="gd0bced8c336b6d1d62db12ed90d936b9">
         <content_type>DiscussionTopic</content_type>
         <workflow_state>active</workflow_state>
-        <title>Discuss (U8): Hardiness Zones &amp; Micro Climate</title>
+        <title>Discuss (U8): Hardiness Zones and Micro Climate</title>
         <identifierref>g4cb6b17506b51336fb95b057559291f9</identifierref>
         <position>4</position>
         <new_tab>false</new_tab>
@@ -739,10 +794,10 @@
       <item identifier="g8bcea5419aec171632aedda117cfbeea">
         <content_type>WikiPage</content_type>
         <workflow_state>active</workflow_state>
-        <title>Watch: Disruption movie</title>
+        <title>Watch: Disruption Movie</title>
         <identifierref>g96e9717e7401deba52dfc48a47cd7aae</identifierref>
         <position>6</position>
-        <new_tab/>
+        <new_tab>false</new_tab>
         <indent>0</indent>
       </item>
       <item identifier="g39d210fba0c51724506f953ab4e16dc4">
