@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="gaa51d87dea5f505da6686919d8420635" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>[parent] SPCS 302 Earth and Its Processes</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2021-08-18</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="g174039bbd0473c282a6dede4e479ff12">
+          <title>Course Introduction</title>
+          <item identifier="gac8856d9769b57c26e254201573dd71f" identifierref="ge1876ce86a8dd7c16a30509a40b8f521">
+            <title>Course Home</title>
+          </item>
+          <item identifier="gd882f020c7d3d5e7631879dfaf1cd8f5" identifierref="gc16db84095187a4da2ea795446114813">
+            <title>Introductions</title>
+          </item>
+          <item identifier="g2540a06f163d84d19e4d7e09aaa21d69" identifierref="g79b264e54f27c6b75fabc46c2e6c1bd0">
+            <title>How To Use Canvas</title>
+          </item>
+          <item identifier="gb5b8ee54042cfead37ced0b52869013c" identifierref="gc3fb2c973ea96beeff1858744ba37009">
+            <title>Technology Requirements</title>
+          </item>
+          <item identifier="g8a8fe635754656df490d2e45078c8cae" identifierref="g43ea76a53dcbdd1b139707d18fdeec0d">
+            <title>Academic Policies</title>
+          </item>
+          <item identifier="gad7ee6d9e33e3bf9fc81fc7266f30df6" identifierref="g535a5eba2798171bc7c14c0ba2089a48">
+            <title>STUDENT LOUNGE</title>
+          </item>
+          <item identifier="g315df5d3a347feb45ad351648b112153" identifierref="g5526dc805510615bad1a46a53d30ff4d">
+            <title>Your Course Text</title>
+          </item>
+        </item>
+        <item identifier="g5d5e5aa00213872835a8042620b9eb3e">
+          <title>Unit 1: Earth Systems - Rocks &amp; Minerals</title>
+          <item identifier="g18af0b6bb15a1df310f0f21ccb9927df" identifierref="g500567bc1014cb7f5bedcddffc58bbe9">
+            <title>Unit 1 Objectives</title>
+          </item>
+          <item identifier="g5f282aa47d8ce12c2f214a0698c61c71" identifierref="gddba23c7a57f9c7ef9a1ce82fe772329">
+            <title>Read: Chapter 1 - Earth Systems</title>
+          </item>
+          <item identifier="gb394c26e56be430ddfc39d735b5695c8" identifierref="ge306063d6167b28a83ab5ac2e7878191">
+            <title>Quiz (U1): Earth Systems</title>
+          </item>
+          <item identifier="g7c7f84772bf973e6c7e164b733d1422f" identifierref="g6f59b8edf1a594cb6b4c44954307830e">
+            <title>Discuss (U1): Earth Systems</title>
+          </item>
+          <item identifier="gfadcbf500f217b2e3232a77eab77b32d" identifierref="gb6868c0d967ab39ba45737a1ee76a1ca">
+            <title>Read: Chapter 2 - Minerals</title>
+          </item>
+          <item identifier="g839e47786d0eda551681d09afd695654" identifierref="gdaaff8217c1afcd7f7516d0d2bab5ec5">
+            <title>Read: Chapter 3 - Rocks</title>
+          </item>
+          <item identifier="gb16f8d2445beb48b444c3e5dbd28b4d1" identifierref="g250c8da9d48a4758680a26d89275fce8">
+            <title>Discuss (U1): Rocks and Minerals</title>
+          </item>
+          <item identifier="g38092d886765d1ab945fa5ca614c9206" identifierref="g194859c2ef77af3e2cc188f7af6512af">
+            <title>Watch: How the Earth Was Made</title>
+          </item>
+          <item identifier="g43d7f6a01e9df728d834f04660c6b728" identifierref="g21f30d7db347ec6878e852225207cd5b">
+            <title>Write (U1): How the Earth Was Made</title>
+          </item>
+        </item>
+        <item identifier="ge4b0936cd73187ba462b406fc5ca9329">
+          <title>Unit 2: Geologic Time &amp; Resources</title>
+          <item identifier="g451244cc94730162648a34f2e8fb5d8e" identifierref="ge7f5b1b418b4746246511a0aa8688a36">
+            <title>Unit 2 Objectives</title>
+          </item>
+          <item identifier="g65484a671d4d53302e0299bcf8e5cea8" identifierref="g92903feb6430554ac9506ddf6b468f63">
+            <title>Read: Chapter 4 - Geologic Time</title>
+          </item>
+          <item identifier="gb53d66417f87d6cd44fd6fe031b604f6" identifierref="g9cfa5fcd5d31bfc2ab6a806fbf32b34f">
+            <title>Quiz (U2): Geologic Time</title>
+          </item>
+          <item identifier="g161a0a4e2aaa6367662416a1de403f45" identifierref="ge691ecfc10d7cc9c1daef27c1d592f6a">
+            <title>Discuss (U2): Rock Cycle Interactive</title>
+          </item>
+          <item identifier="gab49f704f556da6fb4abc73ded8a9527" identifierref="gb3390de7fae886165026a30eecd6efb2">
+            <title>Read: Chapter 5 - Geologic Resources</title>
+          </item>
+          <item identifier="g1cf1ffacd6c7f683cbdd035a47cca15a" identifierref="gcab4ef366a4043ae6c2d082acd2a376a">
+            <title>Watch: A Brief History of Geologic Time</title>
+          </item>
+          <item identifier="g458894fa45a929df9e609dd1a2185866" identifierref="g74e8455f617af70f769d7bb94e3716fd">
+            <title>Write (U2): A Brief History of Geologic Time</title>
+          </item>
+          <item identifier="gb4aa1f0feed142b17c7e05a885f5d4fe" identifierref="g418d4da45eb24f96128fc9b090590caa">
+            <title>Discuss (U2): Radiometric Dating</title>
+          </item>
+        </item>
+        <item identifier="g3384acc3e00d862a8664935fde346237">
+          <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes &amp; Volcanoes</title>
+          <item identifier="g8db81990c3b7a6a5100ff2752877d3e1" identifierref="g5c85ce718c3d31ad32e724abc61d3132">
+            <title>Unit 3 Objectives</title>
+          </item>
+          <item identifier="g44bd90364fd41395c8ca9cfdcd688f49" identifierref="gae54e1fc7311e069f74aad55a532db69">
+            <title>Read: Chapter 6 - Plate Tectonics</title>
+          </item>
+          <item identifier="g58fe0c2d298e69275f4551725f7d8807" identifierref="g906bb832d613ddfe92f690d6cfa75f11">
+            <title>Read: Chapter 7 - Earthquakes and the Earth's Structure</title>
+          </item>
+          <item identifier="g1b4a527497cf3da2b164db7758a757fd" identifierref="g882c148d05e03503699451095a957dd8">
+            <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+          </item>
+          <item identifier="gaa6b0b647e052897b0191726b3a23427" identifierref="ga696121688d4fe8333d9bf3b7505811d">
+            <title>Discuss (U3): Tectonic Plates</title>
+          </item>
+          <item identifier="gb15756b5ba34b1a1542906f86ddc30f1" identifierref="gc855f21c1281916500ed7f94b977abf1">
+            <title>Read: Chapter 8 - Volcanos and Plutons</title>
+          </item>
+          <item identifier="g71b0831d3c11535b9eb6e6dc2f1202a9" identifierref="g194ce39f34c0235b7ff80b230f0ad0f1">
+            <title>Watch: Earthquakes &amp; Volcanoes</title>
+          </item>
+          <item identifier="ge42ae411c4282edd8f447e72f14e7292" identifierref="g8e28f0d18c674e3d52473f9ce4b825b2">
+            <title>Write (U3): Earthquakes &amp; Volcanoes</title>
+          </item>
+          <item identifier="g7fdf8fc75a194bdf85bab9cfc27e62d3" identifierref="g0ec0fc514e61f3ab8e3fd98ef7efe628">
+            <title>Discuss (U3): Volcanoes</title>
+          </item>
+        </item>
+        <item identifier="g037c7544fd6c6ff34e49b85460240b9b">
+          <title>Unit 4: Mountains, Weathering, Soil &amp; Erosion</title>
+          <item identifier="gdf30c9d2e6add289f1edff51fe99ba55" identifierref="gc1cfaee5eca2f1f9c0e4089d384edc57">
+            <title>Unit 4 Objectives</title>
+          </item>
+          <item identifier="g319afcec0b9e09bd82f22c6615e586e6" identifierref="g580c1adaf0e986dbcf39ffcc09c82faf">
+            <title>Read: Chapter 9 - Mountains</title>
+          </item>
+          <item identifier="g61de29356fc1dcc29169140c56327972" identifierref="g2b79f430291a140a245be0feb0c0e885">
+            <title>Watch: Mountain-Making</title>
+          </item>
+          <item identifier="g2d8e4dccc2db2fbdccea000ad9ee33c2" identifierref="g147c14b0c079ab7e2721c1c50229367a">
+            <title>Write (U4): Mountain-Making</title>
+          </item>
+          <item identifier="gaa592015ca513e0ed6a3386e14023962" identifierref="g191ce94c0bc05530d33a34b9ba512662">
+            <title>Discuss (U4): Mountains</title>
+          </item>
+          <item identifier="gea91dd633ff810708c0e34e2a2aaa63b" identifierref="g2afbced9d65af542c821e33680637075">
+            <title>Read: Chapter 10 - Weathering, Soil and Erosion</title>
+          </item>
+          <item identifier="g3aad3bb0db9b47fa3f94930543ef92ef" identifierref="g03a231e588cf164f4db864668969019e">
+            <title>Quiz (U4): Weathering, Soil and Erosion</title>
+          </item>
+          <item identifier="gbf699e0fd8eb0b935104fc9983f0522f" identifierref="g55ab3cbabdb7f5b6764420692ff08938">
+            <title>Discuss (U4): Weathering and Erosion</title>
+          </item>
+        </item>
+        <item identifier="g9b7fdc54076b6d2237972ae170cc5fc0">
+          <title>Unit 5: Fresh Water, Glaciers &amp; Glaciation</title>
+          <item identifier="gee634c8701372657b11eb73788a3bc0f" identifierref="g479be26e20e9a29aceb5a727f802c1ae">
+            <title>Unit 5 Objectives</title>
+          </item>
+          <item identifier="g92cb8e96ce37a73637cf7597beb95222" identifierref="gac1ed8aec99cdee21c62a320cc948ef5">
+            <title>Read: Chapter 11 - Fresh Water: Streams, Lakes, Wetlands, and Groundwater</title>
+          </item>
+          <item identifier="gd0c22fa47c7b9553154401d515c705fa" identifierref="gc7ba3f9e5eb9224cab4ccaec3c88fe82">
+            <title>Watch: Water and Development</title>
+          </item>
+          <item identifier="gff85c8246d63e5f2680f336c81fa7d9e" identifierref="g828247a6d2ada0f86b6e5c8d2b4161ee">
+            <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+          </item>
+          <item identifier="gc318d925d43b19400f52ef8c0bf399ae" identifierref="ga735a5c586667563bedcaaae774c066c">
+            <title>Discuss (U5): The Great Lakes</title>
+          </item>
+          <item identifier="g158e865670c906bb9fc1260e558f3641" identifierref="gdfd82b7141903ec2ffc311676b6f8505">
+            <title>Read: Chapter 12 - Water Resources</title>
+          </item>
+          <item identifier="g33ca1c5feeb672b124baa302bca1bbf3" identifierref="gf02e207b2c2ae825cef4a1a86fa9d714">
+            <title>Read: Chapter 13 - Glaciers and Glaciations</title>
+          </item>
+          <item identifier="g47ebdc575b2942f995c9018cfdbcabc2" identifierref="g1129ed23da8c886514b300a084a8b416">
+            <title>Watch: Ice Age Death Trap</title>
+          </item>
+          <item identifier="g42aac9158f37fc247ffa42701c23445a" identifierref="g2000c9dd386c26ae8e39b9f861125844">
+            <title>Write (U5): Ice Age Death Trap</title>
+          </item>
+          <item identifier="gd5765c90e01d17107dc659ef931bc7a3" identifierref="gbf33bd81b2c7435b408481c93ebec5d3">
+            <title>Discuss (U5): Glaciers</title>
+          </item>
+        </item>
+        <item identifier="g3cf32d35f65ccb8ac9021d938436cff8">
+          <title>Unit 6: Deserts &amp; Wind - Oceans &amp; Coastlines</title>
+          <item identifier="g47b10e5cab082341b1d51edc5c2e3dd1" identifierref="g6f9878ea1490ab283f6c0e66c0bbcdba">
+            <title>Unit 6 Objectives</title>
+          </item>
+          <item identifier="gf93d9efd812f4a4b77067ad20e7cebc1" identifierref="gfa5375db9365f1d5ce59e246d390395a">
+            <title>Read: Chapter 14 - Deserts and Wind</title>
+          </item>
+          <item identifier="g3531aaceba31425091a139561d6df021" identifierref="g26b9545fa70f04ba927db25f89ed3686">
+            <title>Quiz (U6): Deserts and Wind</title>
+          </item>
+          <item identifier="ga174aa90b1b2c47a820371edb524cbdc" identifierref="gec69d79307434c73f1cb4a4bff0b9b77">
+            <title>Discuss (U6): Deserts</title>
+          </item>
+          <item identifier="g5ce46e3b55a7d0f3ea4901e960286bff" identifierref="g654d78aefa0f9cfd9bac734ee5c173e9">
+            <title>Read: Chapter 15 - Ocean Basins</title>
+          </item>
+          <item identifier="g2ffce5b5d9977775c9eb5172a2a82e7b" identifierref="gd6251ff1a3b76b50e770b1103b64b2a1">
+            <title>Read: Chapter 16 - Oceans and Coastlines</title>
+          </item>
+          <item identifier="g2df8367af0fd5b31de33f7850cdd7bd5" identifierref="g840e95cfa96e417e6fcfee87f713e1b1">
+            <title>Watch: Ocean Life Video Clips</title>
+          </item>
+          <item identifier="gf4f3c309d82d982a3f89c90467191d44" identifierref="g5583f4ce7339a7deded3e19c23d01d36">
+            <title>Write (U6): Ocean Life Video Clips</title>
+          </item>
+          <item identifier="g10cac25053f2c336cb95f0493f6c0154" identifierref="g2e4456750536723d6939eab25d46d0c5">
+            <title>Discuss (U6): Oceans and Coastlines</title>
+          </item>
+        </item>
+        <item identifier="g5d47c1668105c548e4be029f65cffe7d">
+          <title>Unit 7: Atmosphere, Weather, Energy &amp; Pollution</title>
+          <item identifier="g7b19d797f59c65ca3b81af9e51202a8c" identifierref="g6026d1538135da703f148719c86a70fd">
+            <title>Unit 7 Objectives</title>
+          </item>
+          <item identifier="g0f6ad03b1821adff1f0047009823c13c" identifierref="g03dc958bc189839682f26b700fd1907c">
+            <title>Read: Chapter 17 - The Atmosphere</title>
+          </item>
+          <item identifier="g90878f8914ffb2104fd78b42f3546f22" identifierref="g1450b43451d0fcd5caedfc5dae66efe9">
+            <title>Quiz (U7): The Atmosphere</title>
+          </item>
+          <item identifier="gce4b80944c52d2954563899d60906734" identifierref="g8a53851faa3fca395531effffdb332b4">
+            <title>Discuss (U7): Air Pollution</title>
+          </item>
+          <item identifier="g119d5f6221258900745295929932bbfa" identifierref="ga0ea63bef3905f2864e037f791800e39">
+            <title>Read: Chapter 18 - Energy Balance in the Atmosphere</title>
+          </item>
+          <item identifier="g797edc6df72a794cdbcb383fd34ba701" identifierref="g15304531cb9dda677c6d59eddc995aa3">
+            <title>Read: Chapter 19 - Moisture, Clouds and Weather</title>
+          </item>
+          <item identifier="gaa501e252976b2a3ae9d811a23f0e496" identifierref="g0cbce504b7d218b10cd53d68d6ee66f4">
+            <title>Watch: Eyes in Outer Space - A Disney Educational Film on Weather</title>
+          </item>
+          <item identifier="gc19d727a23c40e3977646b42cf7e59fa" identifierref="g71f06724537cb8cdaf773221b0181b01">
+            <title>Discuss (U7): Albedo</title>
+          </item>
+        </item>
+        <item identifier="gf03a6d2dc630510db35d0973964c157d">
+          <title>Unit 8: Climate &amp; Climate Change</title>
+          <item identifier="g2dd49925787bc7dc4c0b46263f18482f" identifierref="g1a06e444ea6f999d634afcec69c41452">
+            <title>Unit 8 Objectives</title>
+          </item>
+          <item identifier="g730da0a46e68ee409af6c15ced571459" identifierref="g2f4223e87683db77a99bf742f3bab611">
+            <title>Read: Chapter 20 - Climate</title>
+          </item>
+          <item identifier="g496c996f8be9ea13921dd3fac0197e5e" identifierref="g8972d9403c7dcc0b8ec13b240e4dabfa">
+            <title>Quiz (U8):  Climate</title>
+          </item>
+          <item identifier="gd0bced8c336b6d1d62db12ed90d936b9" identifierref="g4cb6b17506b51336fb95b057559291f9">
+            <title>Discuss (U8): Hardiness Zones &amp; Micro Climate</title>
+          </item>
+          <item identifier="g9e6c99ff8ebe3adcaa60ad5add041e7a" identifierref="g76ec24b6098de69eefb851cdf4805855">
+            <title>Read: Chapter 21 - Climate Change</title>
+          </item>
+          <item identifier="g8bcea5419aec171632aedda117cfbeea" identifierref="g96e9717e7401deba52dfc48a47cd7aae">
+            <title>Watch: Disruption movie</title>
+          </item>
+          <item identifier="g39d210fba0c51724506f953ab4e16dc4" identifierref="gb3df68235ad2528321d1cccdfdf84535">
+            <title>Discuss (U8): Climate Change &amp; the "Disruption" Movie</title>
+          </item>
+          <item identifier="g6aba04350b85504d283fcca23c754da6" identifierref="g012b833334fd4a9f63baa39d2cd06dda">
+            <title>Final Exam</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="gee9f9f2a63d87d407dfeb83cdbe8d1b9_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="gee9f9f2a63d87d407dfeb83cdbe8d1b9" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/rubrics.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g500567bc1014cb7f5bedcddffc58bbe9" type="webcontent" href="wiki_content/unit-1-objectives.html">
+      <file href="wiki_content/unit-1-objectives.html"/>
+    </resource>
+    <resource identifier="ge7f5b1b418b4746246511a0aa8688a36" type="webcontent" href="wiki_content/unit-2-objectives.html">
+      <file href="wiki_content/unit-2-objectives.html"/>
+    </resource>
+    <resource identifier="g5c85ce718c3d31ad32e724abc61d3132" type="webcontent" href="wiki_content/unit-3-objectives.html">
+      <file href="wiki_content/unit-3-objectives.html"/>
+    </resource>
+    <resource identifier="gc1cfaee5eca2f1f9c0e4089d384edc57" type="webcontent" href="wiki_content/unit-4-objectives.html">
+      <file href="wiki_content/unit-4-objectives.html"/>
+    </resource>
+    <resource identifier="g479be26e20e9a29aceb5a727f802c1ae" type="webcontent" href="wiki_content/unit-5-objectives.html">
+      <file href="wiki_content/unit-5-objectives.html"/>
+    </resource>
+    <resource identifier="g6f9878ea1490ab283f6c0e66c0bbcdba" type="webcontent" href="wiki_content/unit-6-objectives.html">
+      <file href="wiki_content/unit-6-objectives.html"/>
+    </resource>
+    <resource identifier="g6026d1538135da703f148719c86a70fd" type="webcontent" href="wiki_content/unit-7-objectives.html">
+      <file href="wiki_content/unit-7-objectives.html"/>
+    </resource>
+    <resource identifier="g1a06e444ea6f999d634afcec69c41452" type="webcontent" href="wiki_content/unit-8-objectives.html">
+      <file href="wiki_content/unit-8-objectives.html"/>
+    </resource>
+    <resource identifier="g79b264e54f27c6b75fabc46c2e6c1bd0" type="webcontent" href="wiki_content/how-to-use-canvas.html">
+      <file href="wiki_content/how-to-use-canvas.html"/>
+    </resource>
+    <resource identifier="g43ea76a53dcbdd1b139707d18fdeec0d" type="webcontent" href="wiki_content/academic-policies.html">
+      <file href="wiki_content/academic-policies.html"/>
+    </resource>
+    <resource identifier="ge1876ce86a8dd7c16a30509a40b8f521" type="webcontent" href="wiki_content/course-home.html">
+      <file href="wiki_content/course-home.html"/>
+    </resource>
+    <resource identifier="gc3fb2c973ea96beeff1858744ba37009" type="webcontent" href="wiki_content/technology-requirements.html">
+      <file href="wiki_content/technology-requirements.html"/>
+    </resource>
+    <resource identifier="g5e087cd7e32c55141866178af1ab2a3e" type="webcontent" href="wiki_content/read-chapter-1-earth-systems-2.html">
+      <file href="wiki_content/read-chapter-1-earth-systems-2.html"/>
+    </resource>
+    <resource identifier="gddba23c7a57f9c7ef9a1ce82fe772329" type="webcontent" href="wiki_content/read-chapter-1-earth-systems.html">
+      <file href="wiki_content/read-chapter-1-earth-systems.html"/>
+    </resource>
+    <resource identifier="gb6868c0d967ab39ba45737a1ee76a1ca" type="webcontent" href="wiki_content/read-chapter-2-minerals.html">
+      <file href="wiki_content/read-chapter-2-minerals.html"/>
+    </resource>
+    <resource identifier="gdaaff8217c1afcd7f7516d0d2bab5ec5" type="webcontent" href="wiki_content/read-chapter-3-rocks.html">
+      <file href="wiki_content/read-chapter-3-rocks.html"/>
+    </resource>
+    <resource identifier="g92903feb6430554ac9506ddf6b468f63" type="webcontent" href="wiki_content/read-chapter-4-geologic-time.html">
+      <file href="wiki_content/read-chapter-4-geologic-time.html"/>
+    </resource>
+    <resource identifier="gb3390de7fae886165026a30eecd6efb2" type="webcontent" href="wiki_content/read-chapter-5-geologic-resources.html">
+      <file href="wiki_content/read-chapter-5-geologic-resources.html"/>
+    </resource>
+    <resource identifier="gae54e1fc7311e069f74aad55a532db69" type="webcontent" href="wiki_content/read-chapter-6-plate-tectonics.html">
+      <file href="wiki_content/read-chapter-6-plate-tectonics.html"/>
+    </resource>
+    <resource identifier="g906bb832d613ddfe92f690d6cfa75f11" type="webcontent" href="wiki_content/read-chapter-7-earthquakes-and-the-earths-structure.html">
+      <file href="wiki_content/read-chapter-7-earthquakes-and-the-earths-structure.html"/>
+    </resource>
+    <resource identifier="g580c1adaf0e986dbcf39ffcc09c82faf" type="webcontent" href="wiki_content/read-chapter-9-mountains.html">
+      <file href="wiki_content/read-chapter-9-mountains.html"/>
+    </resource>
+    <resource identifier="g2afbced9d65af542c821e33680637075" type="webcontent" href="wiki_content/read-chapter-10-weathering-soil-and-erosion.html">
+      <file href="wiki_content/read-chapter-10-weathering-soil-and-erosion.html"/>
+    </resource>
+    <resource identifier="gac1ed8aec99cdee21c62a320cc948ef5" type="webcontent" href="wiki_content/read-chapter-11-fresh-water-streams-lakes-wetlands-and-groundwater.html">
+      <file href="wiki_content/read-chapter-11-fresh-water-streams-lakes-wetlands-and-groundwater.html"/>
+    </resource>
+    <resource identifier="gc7ba3f9e5eb9224cab4ccaec3c88fe82" type="webcontent" href="wiki_content/watch-water-and-development.html">
+      <file href="wiki_content/watch-water-and-development.html"/>
+    </resource>
+    <resource identifier="gdfd82b7141903ec2ffc311676b6f8505" type="webcontent" href="wiki_content/read-chapter-12-water-resources.html">
+      <file href="wiki_content/read-chapter-12-water-resources.html"/>
+    </resource>
+    <resource identifier="gf02e207b2c2ae825cef4a1a86fa9d714" type="webcontent" href="wiki_content/read-chapter-13-glaciers-and-glaciations.html">
+      <file href="wiki_content/read-chapter-13-glaciers-and-glaciations.html"/>
+    </resource>
+    <resource identifier="g1129ed23da8c886514b300a084a8b416" type="webcontent" href="wiki_content/watch-ice-age-death-trap.html">
+      <file href="wiki_content/watch-ice-age-death-trap.html"/>
+    </resource>
+    <resource identifier="g654d78aefa0f9cfd9bac734ee5c173e9" type="webcontent" href="wiki_content/read-chapter-15-ocean-basins.html">
+      <file href="wiki_content/read-chapter-15-ocean-basins.html"/>
+    </resource>
+    <resource identifier="gfa5375db9365f1d5ce59e246d390395a" type="webcontent" href="wiki_content/read-chapter-14-deserts-and-wind.html">
+      <file href="wiki_content/read-chapter-14-deserts-and-wind.html"/>
+    </resource>
+    <resource identifier="gd6251ff1a3b76b50e770b1103b64b2a1" type="webcontent" href="wiki_content/read-chapter-16-oceans-and-coastlines.html">
+      <file href="wiki_content/read-chapter-16-oceans-and-coastlines.html"/>
+    </resource>
+    <resource identifier="g03dc958bc189839682f26b700fd1907c" type="webcontent" href="wiki_content/read-chapter-17-the-atmosphere.html">
+      <file href="wiki_content/read-chapter-17-the-atmosphere.html"/>
+    </resource>
+    <resource identifier="ga0ea63bef3905f2864e037f791800e39" type="webcontent" href="wiki_content/read-chapter-18-energy-balance-in-the-atmosphere.html">
+      <file href="wiki_content/read-chapter-18-energy-balance-in-the-atmosphere.html"/>
+    </resource>
+    <resource identifier="g15304531cb9dda677c6d59eddc995aa3" type="webcontent" href="wiki_content/read-chapter-19-moisture-clouds-and-weather.html">
+      <file href="wiki_content/read-chapter-19-moisture-clouds-and-weather.html"/>
+    </resource>
+    <resource identifier="g2f4223e87683db77a99bf742f3bab611" type="webcontent" href="wiki_content/read-chapter-20-climate.html">
+      <file href="wiki_content/read-chapter-20-climate.html"/>
+    </resource>
+    <resource identifier="g76ec24b6098de69eefb851cdf4805855" type="webcontent" href="wiki_content/read-chapter-21-climate-change.html">
+      <file href="wiki_content/read-chapter-21-climate-change.html"/>
+    </resource>
+    <resource identifier="gc855f21c1281916500ed7f94b977abf1" type="webcontent" href="wiki_content/read-chapter-8-volcanos-and-plutons.html">
+      <file href="wiki_content/read-chapter-8-volcanos-and-plutons.html"/>
+    </resource>
+    <resource identifier="g840e95cfa96e417e6fcfee87f713e1b1" type="webcontent" href="wiki_content/watch-ocean-life-video-clips.html">
+      <file href="wiki_content/watch-ocean-life-video-clips.html"/>
+    </resource>
+    <resource identifier="g2b79f430291a140a245be0feb0c0e885" type="webcontent" href="wiki_content/watch-mountain-making.html">
+      <file href="wiki_content/watch-mountain-making.html"/>
+    </resource>
+    <resource identifier="g194ce39f34c0235b7ff80b230f0ad0f1" type="webcontent" href="wiki_content/watch-earthquakes-and-volcanoes.html">
+      <file href="wiki_content/watch-earthquakes-and-volcanoes.html"/>
+    </resource>
+    <resource identifier="gcab4ef366a4043ae6c2d082acd2a376a" type="webcontent" href="wiki_content/watch-a-brief-history-of-geologic-time.html">
+      <file href="wiki_content/watch-a-brief-history-of-geologic-time.html"/>
+    </resource>
+    <resource identifier="g194859c2ef77af3e2cc188f7af6512af" type="webcontent" href="wiki_content/watch-how-the-earth-was-made-2.html">
+      <file href="wiki_content/watch-how-the-earth-was-made-2.html"/>
+    </resource>
+    <resource identifier="g96e9717e7401deba52dfc48a47cd7aae" type="webcontent" href="wiki_content/watch-disruption-movie.html">
+      <file href="wiki_content/watch-disruption-movie.html"/>
+    </resource>
+    <resource identifier="g0cbce504b7d218b10cd53d68d6ee66f4" type="webcontent" href="wiki_content/watch-eyes-in-outer-space-a-disney-educational-film-on-weather.html">
+      <file href="wiki_content/watch-eyes-in-outer-space-a-disney-educational-film-on-weather.html"/>
+    </resource>
+    <resource identifier="g5526dc805510615bad1a46a53d30ff4d" type="webcontent" href="wiki_content/your-course-text.html">
+      <file href="wiki_content/your-course-text.html"/>
+    </resource>
+    <resource identifier="g21f30d7db347ec6878e852225207cd5b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g21f30d7db347ec6878e852225207cd5b/write-u1-how-the-earth-was-made.html">
+      <file href="g21f30d7db347ec6878e852225207cd5b/write-u1-how-the-earth-was-made.html"/>
+      <file href="g21f30d7db347ec6878e852225207cd5b/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g74e8455f617af70f769d7bb94e3716fd" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g74e8455f617af70f769d7bb94e3716fd/write-u2-a-brief-history-of-geologic-time.html">
+      <file href="g74e8455f617af70f769d7bb94e3716fd/write-u2-a-brief-history-of-geologic-time.html"/>
+      <file href="g74e8455f617af70f769d7bb94e3716fd/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g8e28f0d18c674e3d52473f9ce4b825b2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8e28f0d18c674e3d52473f9ce4b825b2/write-u3-earthquakes-and-volcanoes.html">
+      <file href="g8e28f0d18c674e3d52473f9ce4b825b2/write-u3-earthquakes-and-volcanoes.html"/>
+      <file href="g8e28f0d18c674e3d52473f9ce4b825b2/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g147c14b0c079ab7e2721c1c50229367a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g147c14b0c079ab7e2721c1c50229367a/write-u4-mountain-making.html">
+      <file href="g147c14b0c079ab7e2721c1c50229367a/write-u4-mountain-making.html"/>
+      <file href="g147c14b0c079ab7e2721c1c50229367a/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g2000c9dd386c26ae8e39b9f861125844" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g2000c9dd386c26ae8e39b9f861125844/write-u5-ice-age-death-trap.html">
+      <file href="g2000c9dd386c26ae8e39b9f861125844/write-u5-ice-age-death-trap.html"/>
+      <file href="g2000c9dd386c26ae8e39b9f861125844/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g5583f4ce7339a7deded3e19c23d01d36" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g5583f4ce7339a7deded3e19c23d01d36/write-u6-ocean-life-video-clips.html">
+      <file href="g5583f4ce7339a7deded3e19c23d01d36/write-u6-ocean-life-video-clips.html"/>
+      <file href="g5583f4ce7339a7deded3e19c23d01d36/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="gc16db84095187a4da2ea795446114813" type="imsdt_xmlv1p1">
+      <file href="gc16db84095187a4da2ea795446114813.xml"/>
+      <dependency identifierref="g60065b133da5c59ea16ed570f41369f8"/>
+    </resource>
+    <resource identifier="g60065b133da5c59ea16ed570f41369f8" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g60065b133da5c59ea16ed570f41369f8.xml">
+      <file href="g60065b133da5c59ea16ed570f41369f8.xml"/>
+    </resource>
+    <resource identifier="g6f59b8edf1a594cb6b4c44954307830e" type="imsdt_xmlv1p1">
+      <file href="g6f59b8edf1a594cb6b4c44954307830e.xml"/>
+      <dependency identifierref="g20233b2fe8378c5bad6a4368934cea0c"/>
+    </resource>
+    <resource identifier="g20233b2fe8378c5bad6a4368934cea0c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g20233b2fe8378c5bad6a4368934cea0c.xml">
+      <file href="g20233b2fe8378c5bad6a4368934cea0c.xml"/>
+    </resource>
+    <resource identifier="g250c8da9d48a4758680a26d89275fce8" type="imsdt_xmlv1p1">
+      <file href="g250c8da9d48a4758680a26d89275fce8.xml"/>
+      <dependency identifierref="gbad1350f3cfaf179fe565b32ec2d8b21"/>
+    </resource>
+    <resource identifier="gbad1350f3cfaf179fe565b32ec2d8b21" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gbad1350f3cfaf179fe565b32ec2d8b21.xml">
+      <file href="gbad1350f3cfaf179fe565b32ec2d8b21.xml"/>
+    </resource>
+    <resource identifier="ge691ecfc10d7cc9c1daef27c1d592f6a" type="imsdt_xmlv1p1">
+      <file href="ge691ecfc10d7cc9c1daef27c1d592f6a.xml"/>
+      <dependency identifierref="gf0f79e63b0bb906b8a35143a4ad2de3d"/>
+    </resource>
+    <resource identifier="gf0f79e63b0bb906b8a35143a4ad2de3d" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf0f79e63b0bb906b8a35143a4ad2de3d.xml">
+      <file href="gf0f79e63b0bb906b8a35143a4ad2de3d.xml"/>
+    </resource>
+    <resource identifier="g418d4da45eb24f96128fc9b090590caa" type="imsdt_xmlv1p1">
+      <file href="g418d4da45eb24f96128fc9b090590caa.xml"/>
+      <dependency identifierref="g268363366358a1bb9e6d8645bfa27a24"/>
+    </resource>
+    <resource identifier="g268363366358a1bb9e6d8645bfa27a24" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g268363366358a1bb9e6d8645bfa27a24.xml">
+      <file href="g268363366358a1bb9e6d8645bfa27a24.xml"/>
+    </resource>
+    <resource identifier="ga696121688d4fe8333d9bf3b7505811d" type="imsdt_xmlv1p1">
+      <file href="ga696121688d4fe8333d9bf3b7505811d.xml"/>
+      <dependency identifierref="g894591c695772b042228a4eda979718d"/>
+    </resource>
+    <resource identifier="g894591c695772b042228a4eda979718d" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g894591c695772b042228a4eda979718d.xml">
+      <file href="g894591c695772b042228a4eda979718d.xml"/>
+    </resource>
+    <resource identifier="g0ec0fc514e61f3ab8e3fd98ef7efe628" type="imsdt_xmlv1p1">
+      <file href="g0ec0fc514e61f3ab8e3fd98ef7efe628.xml"/>
+      <dependency identifierref="gbf582b11200c6213a7ee269f9abe0d48"/>
+    </resource>
+    <resource identifier="gbf582b11200c6213a7ee269f9abe0d48" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gbf582b11200c6213a7ee269f9abe0d48.xml">
+      <file href="gbf582b11200c6213a7ee269f9abe0d48.xml"/>
+    </resource>
+    <resource identifier="g191ce94c0bc05530d33a34b9ba512662" type="imsdt_xmlv1p1">
+      <file href="g191ce94c0bc05530d33a34b9ba512662.xml"/>
+      <dependency identifierref="gf68e6003d2be1ca9e726ca5e2064c950"/>
+    </resource>
+    <resource identifier="gf68e6003d2be1ca9e726ca5e2064c950" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf68e6003d2be1ca9e726ca5e2064c950.xml">
+      <file href="gf68e6003d2be1ca9e726ca5e2064c950.xml"/>
+    </resource>
+    <resource identifier="g55ab3cbabdb7f5b6764420692ff08938" type="imsdt_xmlv1p1">
+      <file href="g55ab3cbabdb7f5b6764420692ff08938.xml"/>
+      <dependency identifierref="g81f633b564cd6a743cf8047b486c4c0d"/>
+    </resource>
+    <resource identifier="g81f633b564cd6a743cf8047b486c4c0d" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g81f633b564cd6a743cf8047b486c4c0d.xml">
+      <file href="g81f633b564cd6a743cf8047b486c4c0d.xml"/>
+    </resource>
+    <resource identifier="ga735a5c586667563bedcaaae774c066c" type="imsdt_xmlv1p1">
+      <file href="ga735a5c586667563bedcaaae774c066c.xml"/>
+      <dependency identifierref="g5859273810283687f4116519618f94eb"/>
+    </resource>
+    <resource identifier="g5859273810283687f4116519618f94eb" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g5859273810283687f4116519618f94eb.xml">
+      <file href="g5859273810283687f4116519618f94eb.xml"/>
+    </resource>
+    <resource identifier="gbf33bd81b2c7435b408481c93ebec5d3" type="imsdt_xmlv1p1">
+      <file href="gbf33bd81b2c7435b408481c93ebec5d3.xml"/>
+      <dependency identifierref="g4556285b47493637abfd7dd21a05ad3a"/>
+    </resource>
+    <resource identifier="g4556285b47493637abfd7dd21a05ad3a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4556285b47493637abfd7dd21a05ad3a.xml">
+      <file href="g4556285b47493637abfd7dd21a05ad3a.xml"/>
+    </resource>
+    <resource identifier="gec69d79307434c73f1cb4a4bff0b9b77" type="imsdt_xmlv1p1">
+      <file href="gec69d79307434c73f1cb4a4bff0b9b77.xml"/>
+      <dependency identifierref="gf89de4c22263c6178f247b6973115518"/>
+    </resource>
+    <resource identifier="gf89de4c22263c6178f247b6973115518" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gf89de4c22263c6178f247b6973115518.xml">
+      <file href="gf89de4c22263c6178f247b6973115518.xml"/>
+    </resource>
+    <resource identifier="g2e4456750536723d6939eab25d46d0c5" type="imsdt_xmlv1p1">
+      <file href="g2e4456750536723d6939eab25d46d0c5.xml"/>
+      <dependency identifierref="g961f258a764bfb6d497e3d96812f9996"/>
+    </resource>
+    <resource identifier="g961f258a764bfb6d497e3d96812f9996" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g961f258a764bfb6d497e3d96812f9996.xml">
+      <file href="g961f258a764bfb6d497e3d96812f9996.xml"/>
+    </resource>
+    <resource identifier="g8a53851faa3fca395531effffdb332b4" type="imsdt_xmlv1p1">
+      <file href="g8a53851faa3fca395531effffdb332b4.xml"/>
+      <dependency identifierref="g0c6236c4c1b00fdaf720683e1b2db1a2"/>
+    </resource>
+    <resource identifier="g0c6236c4c1b00fdaf720683e1b2db1a2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g0c6236c4c1b00fdaf720683e1b2db1a2.xml">
+      <file href="g0c6236c4c1b00fdaf720683e1b2db1a2.xml"/>
+    </resource>
+    <resource identifier="g71f06724537cb8cdaf773221b0181b01" type="imsdt_xmlv1p1">
+      <file href="g71f06724537cb8cdaf773221b0181b01.xml"/>
+      <dependency identifierref="ge832a5f1280c79bd091368fd8937f9a2"/>
+    </resource>
+    <resource identifier="ge832a5f1280c79bd091368fd8937f9a2" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge832a5f1280c79bd091368fd8937f9a2.xml">
+      <file href="ge832a5f1280c79bd091368fd8937f9a2.xml"/>
+    </resource>
+    <resource identifier="g4cb6b17506b51336fb95b057559291f9" type="imsdt_xmlv1p1">
+      <file href="g4cb6b17506b51336fb95b057559291f9.xml"/>
+      <dependency identifierref="g4889bf8013948f5937135bbb6ad35e8f"/>
+    </resource>
+    <resource identifier="g4889bf8013948f5937135bbb6ad35e8f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4889bf8013948f5937135bbb6ad35e8f.xml">
+      <file href="g4889bf8013948f5937135bbb6ad35e8f.xml"/>
+    </resource>
+    <resource identifier="gb3df68235ad2528321d1cccdfdf84535" type="imsdt_xmlv1p1">
+      <file href="gb3df68235ad2528321d1cccdfdf84535.xml"/>
+      <dependency identifierref="g97a201343b72f5536bae2a9d65ef25bd"/>
+    </resource>
+    <resource identifier="g97a201343b72f5536bae2a9d65ef25bd" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g97a201343b72f5536bae2a9d65ef25bd.xml">
+      <file href="g97a201343b72f5536bae2a9d65ef25bd.xml"/>
+    </resource>
+    <resource identifier="g535a5eba2798171bc7c14c0ba2089a48" type="imsdt_xmlv1p1">
+      <file href="g535a5eba2798171bc7c14c0ba2089a48.xml"/>
+      <dependency identifierref="gab7dc69c4ba3e5e6161cb8bc125a107a"/>
+    </resource>
+    <resource identifier="gab7dc69c4ba3e5e6161cb8bc125a107a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gab7dc69c4ba3e5e6161cb8bc125a107a.xml">
+      <file href="gab7dc69c4ba3e5e6161cb8bc125a107a.xml"/>
+    </resource>
+    <resource identifier="g3606a68cfd0b0cb06fa7245db45a4cb1" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="non_cc_assessments/g3606a68cfd0b0cb06fa7245db45a4cb1.xml.qti">
+      <file href="non_cc_assessments/g3606a68cfd0b0cb06fa7245db45a4cb1.xml.qti"/>
+    </resource>
+    <resource identifier="ge306063d6167b28a83ab5ac2e7878191" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="ge306063d6167b28a83ab5ac2e7878191/assessment_qti.xml"/>
+      <dependency identifierref="ge2faaff4e1c9e0f4efbabee851c9182a"/>
+    </resource>
+    <resource identifier="ge2faaff4e1c9e0f4efbabee851c9182a" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="ge306063d6167b28a83ab5ac2e7878191/assessment_meta.xml">
+      <file href="ge306063d6167b28a83ab5ac2e7878191/assessment_meta.xml"/>
+      <file href="non_cc_assessments/ge306063d6167b28a83ab5ac2e7878191.xml.qti"/>
+    </resource>
+    <resource identifier="g9cfa5fcd5d31bfc2ab6a806fbf32b34f" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g9cfa5fcd5d31bfc2ab6a806fbf32b34f/assessment_qti.xml"/>
+      <dependency identifierref="g2390676e35021ff6ca026679b68c1bd9"/>
+    </resource>
+    <resource identifier="g2390676e35021ff6ca026679b68c1bd9" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g9cfa5fcd5d31bfc2ab6a806fbf32b34f/assessment_meta.xml">
+      <file href="g9cfa5fcd5d31bfc2ab6a806fbf32b34f/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g9cfa5fcd5d31bfc2ab6a806fbf32b34f.xml.qti"/>
+    </resource>
+    <resource identifier="g882c148d05e03503699451095a957dd8" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g882c148d05e03503699451095a957dd8/assessment_qti.xml"/>
+      <dependency identifierref="gcbf7d75fa086a8316f5143dac1c584d5"/>
+    </resource>
+    <resource identifier="gcbf7d75fa086a8316f5143dac1c584d5" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g882c148d05e03503699451095a957dd8/assessment_meta.xml">
+      <file href="g882c148d05e03503699451095a957dd8/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g882c148d05e03503699451095a957dd8.xml.qti"/>
+    </resource>
+    <resource identifier="g03a231e588cf164f4db864668969019e" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g03a231e588cf164f4db864668969019e/assessment_qti.xml"/>
+      <dependency identifierref="g2199b9f97002e2507e092838daf97f88"/>
+    </resource>
+    <resource identifier="g2199b9f97002e2507e092838daf97f88" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g03a231e588cf164f4db864668969019e/assessment_meta.xml">
+      <file href="g03a231e588cf164f4db864668969019e/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g03a231e588cf164f4db864668969019e.xml.qti"/>
+    </resource>
+    <resource identifier="g828247a6d2ada0f86b6e5c8d2b4161ee" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g828247a6d2ada0f86b6e5c8d2b4161ee/assessment_qti.xml"/>
+      <dependency identifierref="gf74b151a5ab1c74ab9e8591706851e5c"/>
+    </resource>
+    <resource identifier="gf74b151a5ab1c74ab9e8591706851e5c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g828247a6d2ada0f86b6e5c8d2b4161ee/assessment_meta.xml">
+      <file href="g828247a6d2ada0f86b6e5c8d2b4161ee/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g828247a6d2ada0f86b6e5c8d2b4161ee.xml.qti"/>
+    </resource>
+    <resource identifier="g26b9545fa70f04ba927db25f89ed3686" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g26b9545fa70f04ba927db25f89ed3686/assessment_qti.xml"/>
+      <dependency identifierref="gcaa4213aeb5f1cdb4c3ce78f76522dfa"/>
+    </resource>
+    <resource identifier="gcaa4213aeb5f1cdb4c3ce78f76522dfa" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g26b9545fa70f04ba927db25f89ed3686/assessment_meta.xml">
+      <file href="g26b9545fa70f04ba927db25f89ed3686/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g26b9545fa70f04ba927db25f89ed3686.xml.qti"/>
+    </resource>
+    <resource identifier="g1450b43451d0fcd5caedfc5dae66efe9" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g1450b43451d0fcd5caedfc5dae66efe9/assessment_qti.xml"/>
+      <dependency identifierref="g571683466d352b8f8b91ee4be205e451"/>
+    </resource>
+    <resource identifier="g571683466d352b8f8b91ee4be205e451" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1450b43451d0fcd5caedfc5dae66efe9/assessment_meta.xml">
+      <file href="g1450b43451d0fcd5caedfc5dae66efe9/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g1450b43451d0fcd5caedfc5dae66efe9.xml.qti"/>
+    </resource>
+    <resource identifier="g012b833334fd4a9f63baa39d2cd06dda" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g012b833334fd4a9f63baa39d2cd06dda/assessment_qti.xml"/>
+      <dependency identifierref="g26d3f868c7480ac2a08f2e9d7dd271fd"/>
+    </resource>
+    <resource identifier="g26d3f868c7480ac2a08f2e9d7dd271fd" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g012b833334fd4a9f63baa39d2cd06dda/assessment_meta.xml">
+      <file href="g012b833334fd4a9f63baa39d2cd06dda/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g012b833334fd4a9f63baa39d2cd06dda.xml.qti"/>
+    </resource>
+    <resource identifier="g8972d9403c7dcc0b8ec13b240e4dabfa" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g8972d9403c7dcc0b8ec13b240e4dabfa/assessment_qti.xml"/>
+      <dependency identifierref="ga743d94d4829ec0f3deff6698e28af3b"/>
+    </resource>
+    <resource identifier="ga743d94d4829ec0f3deff6698e28af3b" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8972d9403c7dcc0b8ec13b240e4dabfa/assessment_meta.xml">
+      <file href="g8972d9403c7dcc0b8ec13b240e4dabfa/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g8972d9403c7dcc0b8ec13b240e4dabfa.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="gf4c65cec028774b8318d75878764c382" href="web_resources/DU Theme/Masthead_Grand Canyon 3_SPCS 302.jpg">
+      <file href="web_resources/DU Theme/Masthead_Grand Canyon 3_SPCS 302.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g99c04fc1b5a4c22db408d909fdf642ec" href="web_resources/DU Theme/Image documentation_SPCS 302.docx">
+      <file href="web_resources/DU Theme/Image documentation_SPCS 302.docx"/>
+    </resource>
+    <resource type="webcontent" identifier="gacdebff101a34399974887bc298acfc8" href="web_resources/DU Theme/style.css">
+      <file href="web_resources/DU Theme/style.css"/>
+    </resource>
+    <resource type="webcontent" identifier="g7aeba2cab1fa2aef100fd7159d803659" href="web_resources/Uploaded Media/CengageMobileLogo.png">
+      <file href="web_resources/Uploaded Media/CengageMobileLogo.png"/>
+    </resource>
+    <resource type="webcontent" identifier="gb40ad6ecc5b48ce7c397dd90085886c9" href="web_resources/Uploaded Media/CengageTipsLogo.png">
+      <file href="web_resources/Uploaded Media/CengageTipsLogo.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g334360870f1111f43f5f36442b7c2664" href="web_resources/Uploaded Media/CengageBrowserTipsLogo.png">
+      <file href="web_resources/Uploaded Media/CengageBrowserTipsLogo.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g933c4d7fff063f5ef05c25cd67631545" href="web_resources/Uploaded Media/CengageTechSupportLogo.png">
+      <file href="web_resources/Uploaded Media/CengageTechSupportLogo.png"/>
+    </resource>
+  </resources>
+</manifest>

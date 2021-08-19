@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_qtiasiv1p2p1_v1p0.xsd">
+  <assessment ident="g882c148d05e03503699451095a957dd8" title="Quiz (U3): Earthquakes &amp; Earth's Structure">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_profile</fieldlabel>
+        <fieldentry>cc.exam.v0p1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_assessmenttype</fieldlabel>
+        <fieldentry>Examination</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_scoretype</fieldlabel>
+        <fieldentry>Percentage</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>unlimited</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g149f3cd90fc142786adc16279ed3f6c6" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Alfred Wegener named the northern part of the supercontinent __________ consisting of what is now North America and Eurasia.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5063">
+                <material>
+                  <mattext texttype="text/plain">Laurasia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3764">
+                <material>
+                  <mattext texttype="text/plain">Pangea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7410">
+                <material>
+                  <mattext texttype="text/plain">Gondwana</mattext>
+                </material>
+              </response_label>
+              <response_label ident="928">
+                <material>
+                  <mattext texttype="text/plain">Arctica</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5063</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9c0e74d2836c66f89062ad557f08f586" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Average oceanic crust is __________ kilometers thick, whereas average continental crust is __________ kilometers thick.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="714">
+                <material>
+                  <mattext texttype="text/plain">4 to 7, 20 to 40</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8277">
+                <material>
+                  <mattext texttype="text/plain">20 to 40, 5 to 10</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1954">
+                <material>
+                  <mattext texttype="text/plain">50 to 100, 200 to 400</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8752">
+                <material>
+                  <mattext texttype="text/plain">200 to 400, 50 to 100</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">714</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gef253e357c6698630e8609f120a5d605" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The mantle makes up about __________ percent of the Earth's volume.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="6247">
+                <material>
+                  <mattext texttype="text/plain">80</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3357">
+                <material>
+                  <mattext texttype="text/plain">8</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8860">
+                <material>
+                  <mattext texttype="text/plain">20</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7836">
+                <material>
+                  <mattext texttype="text/plain">0.8</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">6247</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g1005902d527f1cffea9ccb5d22284fc1" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The asthenosphere extends from a depth of about __________ km down to a depth of about __________ km below the surface of the Earth.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="586">
+                <material>
+                  <mattext texttype="text/plain">100, 350</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4470">
+                <material>
+                  <mattext texttype="text/plain">1, 3.5</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3291">
+                <material>
+                  <mattext texttype="text/plain">10, 35</mattext>
+                </material>
+              </response_label>
+              <response_label ident="940">
+                <material>
+                  <mattext texttype="text/plain">1000, 3500</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">586</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9dfb01f68d858e69bd07671c84d986e8" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The __________ includes Earth's crust and the uppermost strong rigid part of the mantle.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2580">
+                <material>
+                  <mattext texttype="text/plain">lithosphere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4336">
+                <material>
+                  <mattext texttype="text/plain">asthenosphere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8891">
+                <material>
+                  <mattext texttype="text/plain">atmosphere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5885">
+                <material>
+                  <mattext texttype="text/plain">biosphere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">2580</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g1cc2d782e10910e2da594982ba2ea116" title="Question 6">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;S, or shear, waves&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="7840">
+                <material>
+                  <mattext texttype="text/plain">are characterized by particle movement perpendicular to direction of wave propagation.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext texttype="text/plain">are faster than P waves.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8788">
+                <material>
+                  <mattext texttype="text/plain">move through solids, liquids, and gases.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="922">
+                <material>
+                  <mattext texttype="text/plain">move along the Earth's surface only.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">7840</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g78cdfa882df47af20fafa4579b2dde42" title="Question 7">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;P waves and S waves&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="8584">
+                <material>
+                  <mattext texttype="text/plain">travel through Earth's interior.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3777">
+                <material>
+                  <mattext texttype="text/plain">move along the Earth's surface only.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5303">
+                <material>
+                  <mattext texttype="text/plain">do not reflect and refract at boundaries.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="763">
+                <material>
+                  <mattext texttype="text/plain">have very high amplitudes compared to surface waves.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8584</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g2f067df53b476f2271f53a13ecca52eb" title="Question 8">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The Mercalli scale measures&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4747">
+                <material>
+                  <mattext texttype="text/plain">the intensity of an earthquake based on its destructive power.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2355">
+                <material>
+                  <mattext texttype="text/plain">numbers of earthquake waves generated.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3688">
+                <material>
+                  <mattext texttype="text/plain">the amount of energy released during an earthquake based on the largest recorded body wave.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1701">
+                <material>
+                  <mattext texttype="text/plain">the amoount of energy released during an earthquake based on the amount of movement and fault area.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4747</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gf57dfce3a37ffdf9c3af6b7007551496" title="Question 9">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The moment magnitude scale&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2877">
+                <material>
+                  <mattext texttype="text/plain">is an accurate indicator of the energy released during an earthquake.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3265">
+                <material>
+                  <mattext texttype="text/plain">is based on the highest peak recorded on a specific type of seismograph.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5406">
+                <material>
+                  <mattext texttype="text/plain">can be used to locate the earthquake epicenter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7271">
+                <material>
+                  <mattext texttype="text/plain">is measured by recording the amount of structural damage in an area.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">2877</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gaeea23453162018764a8df558920e6d5" title="Question 10">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The San Andreas Fault zone is an example of a/an&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="9537">
+                <material>
+                  <mattext texttype="text/plain">earthquake zone at a transform plate boundary.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9554">
+                <material>
+                  <mattext texttype="text/plain">Benioff zone.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext texttype="text/plain">earthquake zone at a subduction plate boundary.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="428">
+                <material>
+                  <mattext texttype="text/plain">earthquake at a divergent plate boundary.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">9537</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga19334262bd92edc091825822625e569" title="Question 11">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Where two tectonic plates move past one another, rock near the plate boundary can stretch or compress elastically for decades, and then fracture suddenly and create an earthquake.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1664">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5808">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">1664</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gdf5eb83280fff557b9564d9190c63078" title="Question 12">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;P waves in the Earth travel more than ten times slower than the speed of sound in air.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1796">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9892">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">9892</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="9892_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">1796</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="9892_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;P waves in the Earth travel more than ten times FASTER than the speed of sound in air.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="g1b35c77e5a91171479a5cfca515129d8" title="Question 13">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Primary waves travel more slowly than either type of body wave.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2614">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5716">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">5716</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="5716_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">2614</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="5716_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;P waves (type of "body wave") travel fast and are the first or "primary" seismic waves to reach an observer.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="g9a49fd35f1c1416f5957d41b2fecd338" title="Question 14">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The Mid-Atlantic Ridge is a leg of the Mid-Oceanic Ridge system that divides the Atlantic Ocean.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="7773">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4273">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">7773</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g89f6292587f859025ada7644e2ffcde5" title="Question 15">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Oceanic crust is thicker than continental crust.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1173">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8671">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">8671</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="8671_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">1173</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="8671_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;The continental crust is thicker than oceanic crust.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

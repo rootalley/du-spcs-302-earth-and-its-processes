@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_qtiasiv1p2p1_v1p0.xsd">
+  <assessment ident="g1450b43451d0fcd5caedfc5dae66efe9" title="Quiz (U7): The Atmosphere">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_profile</fieldlabel>
+        <fieldentry>cc.exam.v0p1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_assessmenttype</fieldlabel>
+        <fieldentry>Examination</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>qmd_scoretype</fieldlabel>
+        <fieldentry>Percentage</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>unlimited</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g6fc14390001d403644508065176d4364" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The Earth's atmosphere 4.6 billion years ago was mainly composed of __________ and __________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="6094">
+                <material>
+                  <mattext texttype="text/plain">hydrogen, helium</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7070">
+                <material>
+                  <mattext texttype="text/plain">helium, carbon dioxide</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4491">
+                <material>
+                  <mattext texttype="text/plain">carbon dioxide, oxygen</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3557">
+                <material>
+                  <mattext texttype="text/plain">nitrogen, helium</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">6094</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9270c116128e977596e47144fc284951" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;A first rapid increase of oxygen in the atmosphere (the First Great Oxidation Event) occurred about __________ years ago.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4783">
+                <material>
+                  <mattext texttype="text/plain">2.4 billion</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1340">
+                <material>
+                  <mattext texttype="text/plain">4.4 billion</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1391">
+                <material>
+                  <mattext texttype="text/plain">1 billion</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6558">
+                <material>
+                  <mattext texttype="text/plain">600 million</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4783</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g80716472d344a6191cf0d648c490afe7" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;A second rapid increase of oxygen in the atmosphere (the Second Great Oxidation Event) started about __________ years ago.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5673">
+                <material>
+                  <mattext texttype="text/plain">600 million</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6019">
+                <material>
+                  <mattext texttype="text/plain">3 billion</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7299">
+                <material>
+                  <mattext texttype="text/plain">60 million</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6034">
+                <material>
+                  <mattext texttype="text/plain">6 million</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5673</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8ce7a299f3560155a271183a5b1ba466" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;As early multicellular organisms evolved, they released more __________ into the atmosphere.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="3759">
+                <material>
+                  <mattext texttype="text/plain">oxygen</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3060">
+                <material>
+                  <mattext texttype="text/plain">hydrogen</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9786">
+                <material>
+                  <mattext texttype="text/plain">nitrogen</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8117">
+                <material>
+                  <mattext texttype="text/plain">argon</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">3759</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga2aa9e42d5dc11b75134e0a0391180d9" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The most abundant constituent of our atmosphere is&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1854">
+                <material>
+                  <mattext texttype="text/plain">nitrogen.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4941">
+                <material>
+                  <mattext texttype="text/plain">oxygen.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9575">
+                <material>
+                  <mattext texttype="text/plain">helium.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4445">
+                <material>
+                  <mattext texttype="text/plain">ozone.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">1854</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g03b28e10e9a3651c9c14e59a6ed52d13" title="Question 6">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Which of the following ordering of the layers of the atmosphere is correct? (Starting with the lowest layer.)&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2620">
+                <material>
+                  <mattext texttype="text/plain">troposphere&lt;stratosphere&lt;mesosphere&lt;thermosphere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5222">
+                <material>
+                  <mattext texttype="text/plain">thermosphere&lt;stratosphere&lt;troposphere&lt;mesospere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="847">
+                <material>
+                  <mattext texttype="text/plain">troposphere&lt;mesosphere&lt;stratosphere&lt;thermosphere</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3689">
+                <material>
+                  <mattext texttype="text/plain">stratosphere&lt;troposphere&lt;mesosphere&lt;thermosphere</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">2620</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g134996507bdced30d27770317639731b" title="Question 7">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;If pure coal burned completely, it would produce&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="8201">
+                <material>
+                  <mattext texttype="text/plain">carbon dioxide and water.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9213">
+                <material>
+                  <mattext texttype="text/plain">benzene and toxic volatiles.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="421">
+                <material>
+                  <mattext texttype="text/plain">carbon dioxide, soot, and fly ash.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3861">
+                <material>
+                  <mattext texttype="text/plain">oxygen and water.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8201</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge117cdb959ea6854502586ad35629f1b" title="Question 8">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The primary source of sulfur dioxide is/are&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="9380">
+                <material>
+                  <mattext texttype="text/plain">coal-fired power plants.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="154">
+                <material>
+                  <mattext texttype="text/plain">automobile exhaust.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2037">
+                <material>
+                  <mattext texttype="text/plain">nuclear power plants.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2696">
+                <material>
+                  <mattext texttype="text/plain">chemical manufacturing.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">9380</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g26fcb1cb97f779857d992f5399c279b6" title="Question 9">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;During photosynthesis:&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5037">
+                <material>
+                  <mattext texttype="text/plain">Chlorophyll-bearing plants convert cabondioxide and water to organic sugars and release oxygen.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1804">
+                <material>
+                  <mattext texttype="text/plain">Chlorophyll-bearing plants convert oxygen and water to organic sugars and release carbon dioxide.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7580">
+                <material>
+                  <mattext texttype="text/plain">Primitive bacteria convert hydrogen and oxygen into water.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9969">
+                <material>
+                  <mattext texttype="text/plain">Primitive bacteria obtain energy from reactions with minerals.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5037</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g0c3fa948b2628fedd6a6fe4280538846" title="Question 10">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.multiple_choice.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;At the time of the First Great Oxidation Event, the oxygen concentration in Earth's atmosphere increased&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5245">
+                <material>
+                  <mattext texttype="text/plain">from trace amounts to appreciable quantities.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7650">
+                <material>
+                  <mattext texttype="text/plain">from 15 to 21 percent.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1684">
+                <material>
+                  <mattext texttype="text/plain">due to oxygen production by zooplankton.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="396">
+                <material>
+                  <mattext texttype="text/plain">due to accelerated weathering caused by lichens.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5245</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb66cb16d0081c2c1f164fa5d0792fa21" title="Question 11">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;If the oxygen level in the atmosphere were to rise significantly, fires would burn uncontrollably across the planet.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="7266">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9771">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">9771</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="9771_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">7266</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="9771_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;Yes, a significant rise in oxygen level would make it easier to burn fires, but not "uncontrollably." A significant rise in oxygen, up to a point, would increase the size of insects and lessen disease and illness in humans.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="g4af5ca21edfca326366221973315217c" title="Question 12">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;As early organisms evolved and multiplied, they depleted oxygen from the atmosphere.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="6137">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9118">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <varequal respident="response1">9118</varequal>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="9118_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">6137</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="9118_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;Early organisms produced oxygen.&lt;/p&gt;</mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="g6e2f264416423d7848f0886958857ca5" title="Question 13">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Most iron is mined from banded iron formations.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4471">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5231">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4471</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gdbd45c305448df34c02c9c14649340f2" title="Question 14">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;If all life on Earth were to cease, the atmosphere would revert to its primitive, oxygen-poor composition and become poisonous to modern plants and animals.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="3319">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5491">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">3319</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7cd6bb7f35a2bd18d0fe8969887a715e" title="Question 15">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>cc_profile</fieldlabel>
+              <fieldentry>cc.true_false.v0p1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Twenty people died, and half the people in Donora, Pennsylvania, were seriously ill from the effects of air pollution in 1948.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="6843">
+                <material>
+                  <mattext texttype="text/plain">True</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3686">
+                <material>
+                  <mattext texttype="text/plain">False</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">6843</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

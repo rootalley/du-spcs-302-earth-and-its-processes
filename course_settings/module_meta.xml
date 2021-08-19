@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="g174039bbd0473c282a6dede4e479ff12">
+    <title>Course Introduction</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gac8856d9769b57c26e254201573dd71f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Course Home</title>
+        <identifierref>ge1876ce86a8dd7c16a30509a40b8f521</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gd882f020c7d3d5e7631879dfaf1cd8f5">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Introductions</title>
+        <identifierref>gc16db84095187a4da2ea795446114813</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g2540a06f163d84d19e4d7e09aaa21d69">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>How To Use Canvas</title>
+        <identifierref>g79b264e54f27c6b75fabc46c2e6c1bd0</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb5b8ee54042cfead37ced0b52869013c">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Technology Requirements</title>
+        <identifierref>gc3fb2c973ea96beeff1858744ba37009</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g8a8fe635754656df490d2e45078c8cae">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Academic Policies</title>
+        <identifierref>g43ea76a53dcbdd1b139707d18fdeec0d</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gad7ee6d9e33e3bf9fc81fc7266f30df6">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>STUDENT LOUNGE</title>
+        <identifierref>g535a5eba2798171bc7c14c0ba2089a48</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g315df5d3a347feb45ad351648b112153">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Your Course Text</title>
+        <identifierref>g5526dc805510615bad1a46a53d30ff4d</identifierref>
+        <position>7</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g5d5e5aa00213872835a8042620b9eb3e">
+    <title>Unit 1: Earth Systems - Rocks &amp; Minerals</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g18af0b6bb15a1df310f0f21ccb9927df">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 1 Objectives</title>
+        <identifierref>g500567bc1014cb7f5bedcddffc58bbe9</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g5f282aa47d8ce12c2f214a0698c61c71">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 1 - Earth Systems</title>
+        <identifierref>gddba23c7a57f9c7ef9a1ce82fe772329</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb394c26e56be430ddfc39d735b5695c8">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U1): Earth Systems</title>
+        <identifierref>ge306063d6167b28a83ab5ac2e7878191</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g7c7f84772bf973e6c7e164b733d1422f">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U1): Earth Systems</title>
+        <identifierref>g6f59b8edf1a594cb6b4c44954307830e</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gfadcbf500f217b2e3232a77eab77b32d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 2 - Minerals</title>
+        <identifierref>gb6868c0d967ab39ba45737a1ee76a1ca</identifierref>
+        <position>5</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g839e47786d0eda551681d09afd695654">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 3 - Rocks</title>
+        <identifierref>gdaaff8217c1afcd7f7516d0d2bab5ec5</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb16f8d2445beb48b444c3e5dbd28b4d1">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U1): Rocks and Minerals</title>
+        <identifierref>g250c8da9d48a4758680a26d89275fce8</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g38092d886765d1ab945fa5ca614c9206">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: How the Earth Was Made</title>
+        <identifierref>g194859c2ef77af3e2cc188f7af6512af</identifierref>
+        <position>8</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g43d7f6a01e9df728d834f04660c6b728">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U1): How the Earth Was Made</title>
+        <identifierref>g21f30d7db347ec6878e852225207cd5b</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="ge4b0936cd73187ba462b406fc5ca9329">
+    <title>Unit 2: Geologic Time &amp; Resources</title>
+    <workflow_state>active</workflow_state>
+    <position>3</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g451244cc94730162648a34f2e8fb5d8e">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 2 Objectives</title>
+        <identifierref>ge7f5b1b418b4746246511a0aa8688a36</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g65484a671d4d53302e0299bcf8e5cea8">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 4 - Geologic Time</title>
+        <identifierref>g92903feb6430554ac9506ddf6b468f63</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb53d66417f87d6cd44fd6fe031b604f6">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U2): Geologic Time</title>
+        <identifierref>g9cfa5fcd5d31bfc2ab6a806fbf32b34f</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g161a0a4e2aaa6367662416a1de403f45">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U2): Rock Cycle Interactive</title>
+        <identifierref>ge691ecfc10d7cc9c1daef27c1d592f6a</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gab49f704f556da6fb4abc73ded8a9527">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 5 - Geologic Resources</title>
+        <identifierref>gb3390de7fae886165026a30eecd6efb2</identifierref>
+        <position>5</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g1cf1ffacd6c7f683cbdd035a47cca15a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: A Brief History of Geologic Time</title>
+        <identifierref>gcab4ef366a4043ae6c2d082acd2a376a</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g458894fa45a929df9e609dd1a2185866">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U2): A Brief History of Geologic Time</title>
+        <identifierref>g74e8455f617af70f769d7bb94e3716fd</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb4aa1f0feed142b17c7e05a885f5d4fe">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U2): Radiometric Dating</title>
+        <identifierref>g418d4da45eb24f96128fc9b090590caa</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g3384acc3e00d862a8664935fde346237">
+    <title>Unit 3: Earth's Structure - Plate Tectonics, Earthquakes &amp; Volcanoes</title>
+    <workflow_state>active</workflow_state>
+    <position>4</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g8db81990c3b7a6a5100ff2752877d3e1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 3 Objectives</title>
+        <identifierref>g5c85ce718c3d31ad32e724abc61d3132</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g44bd90364fd41395c8ca9cfdcd688f49">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 6 - Plate Tectonics</title>
+        <identifierref>gae54e1fc7311e069f74aad55a532db69</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g58fe0c2d298e69275f4551725f7d8807">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 7 - Earthquakes and the Earth's Structure</title>
+        <identifierref>g906bb832d613ddfe92f690d6cfa75f11</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g1b4a527497cf3da2b164db7758a757fd">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U3): Earthquakes &amp; Earth's Structure</title>
+        <identifierref>g882c148d05e03503699451095a957dd8</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gaa6b0b647e052897b0191726b3a23427">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U3): Tectonic Plates</title>
+        <identifierref>ga696121688d4fe8333d9bf3b7505811d</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb15756b5ba34b1a1542906f86ddc30f1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 8 - Volcanos and Plutons</title>
+        <identifierref>gc855f21c1281916500ed7f94b977abf1</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g71b0831d3c11535b9eb6e6dc2f1202a9">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Earthquakes &amp; Volcanoes</title>
+        <identifierref>g194ce39f34c0235b7ff80b230f0ad0f1</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="ge42ae411c4282edd8f447e72f14e7292">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U3): Earthquakes &amp; Volcanoes</title>
+        <identifierref>g8e28f0d18c674e3d52473f9ce4b825b2</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g7fdf8fc75a194bdf85bab9cfc27e62d3">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U3): Volcanoes</title>
+        <identifierref>g0ec0fc514e61f3ab8e3fd98ef7efe628</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g037c7544fd6c6ff34e49b85460240b9b">
+    <title>Unit 4: Mountains, Weathering, Soil &amp; Erosion</title>
+    <workflow_state>active</workflow_state>
+    <position>5</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gdf30c9d2e6add289f1edff51fe99ba55">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 4 Objectives</title>
+        <identifierref>gc1cfaee5eca2f1f9c0e4089d384edc57</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g319afcec0b9e09bd82f22c6615e586e6">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 9 - Mountains</title>
+        <identifierref>g580c1adaf0e986dbcf39ffcc09c82faf</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g61de29356fc1dcc29169140c56327972">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Mountain-Making</title>
+        <identifierref>g2b79f430291a140a245be0feb0c0e885</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g2d8e4dccc2db2fbdccea000ad9ee33c2">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U4): Mountain-Making</title>
+        <identifierref>g147c14b0c079ab7e2721c1c50229367a</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gaa592015ca513e0ed6a3386e14023962">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U4): Mountains</title>
+        <identifierref>g191ce94c0bc05530d33a34b9ba512662</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gea91dd633ff810708c0e34e2a2aaa63b">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 10 - Weathering, Soil and Erosion</title>
+        <identifierref>g2afbced9d65af542c821e33680637075</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g3aad3bb0db9b47fa3f94930543ef92ef">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U4): Weathering, Soil and Erosion</title>
+        <identifierref>g03a231e588cf164f4db864668969019e</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gbf699e0fd8eb0b935104fc9983f0522f">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U4): Weathering and Erosion</title>
+        <identifierref>g55ab3cbabdb7f5b6764420692ff08938</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g9b7fdc54076b6d2237972ae170cc5fc0">
+    <title>Unit 5: Fresh Water, Glaciers &amp; Glaciation</title>
+    <workflow_state>active</workflow_state>
+    <position>6</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gee634c8701372657b11eb73788a3bc0f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 5 Objectives</title>
+        <identifierref>g479be26e20e9a29aceb5a727f802c1ae</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g92cb8e96ce37a73637cf7597beb95222">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 11 - Fresh Water: Streams, Lakes, Wetlands, and Groundwater</title>
+        <identifierref>gac1ed8aec99cdee21c62a320cc948ef5</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gd0c22fa47c7b9553154401d515c705fa">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Water and Development</title>
+        <identifierref>gc7ba3f9e5eb9224cab4ccaec3c88fe82</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gff85c8246d63e5f2680f336c81fa7d9e">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U5): Fresh Water Reading &amp; Video</title>
+        <identifierref>g828247a6d2ada0f86b6e5c8d2b4161ee</identifierref>
+        <position>4</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gc318d925d43b19400f52ef8c0bf399ae">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U5): The Great Lakes</title>
+        <identifierref>ga735a5c586667563bedcaaae774c066c</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g158e865670c906bb9fc1260e558f3641">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 12 - Water Resources</title>
+        <identifierref>gdfd82b7141903ec2ffc311676b6f8505</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g33ca1c5feeb672b124baa302bca1bbf3">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 13 - Glaciers and Glaciations</title>
+        <identifierref>gf02e207b2c2ae825cef4a1a86fa9d714</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g47ebdc575b2942f995c9018cfdbcabc2">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Ice Age Death Trap</title>
+        <identifierref>g1129ed23da8c886514b300a084a8b416</identifierref>
+        <position>8</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g42aac9158f37fc247ffa42701c23445a">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U5): Ice Age Death Trap</title>
+        <identifierref>g2000c9dd386c26ae8e39b9f861125844</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gd5765c90e01d17107dc659ef931bc7a3">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U5): Glaciers</title>
+        <identifierref>gbf33bd81b2c7435b408481c93ebec5d3</identifierref>
+        <position>10</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g3cf32d35f65ccb8ac9021d938436cff8">
+    <title>Unit 6: Deserts &amp; Wind - Oceans &amp; Coastlines</title>
+    <workflow_state>active</workflow_state>
+    <position>7</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g47b10e5cab082341b1d51edc5c2e3dd1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 6 Objectives</title>
+        <identifierref>g6f9878ea1490ab283f6c0e66c0bbcdba</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gf93d9efd812f4a4b77067ad20e7cebc1">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 14 - Deserts and Wind</title>
+        <identifierref>gfa5375db9365f1d5ce59e246d390395a</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g3531aaceba31425091a139561d6df021">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U6): Deserts and Wind</title>
+        <identifierref>g26b9545fa70f04ba927db25f89ed3686</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="ga174aa90b1b2c47a820371edb524cbdc">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U6): Deserts</title>
+        <identifierref>gec69d79307434c73f1cb4a4bff0b9b77</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g5ce46e3b55a7d0f3ea4901e960286bff">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 15 - Ocean Basins</title>
+        <identifierref>g654d78aefa0f9cfd9bac734ee5c173e9</identifierref>
+        <position>5</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g2ffce5b5d9977775c9eb5172a2a82e7b">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 16 - Oceans and Coastlines</title>
+        <identifierref>gd6251ff1a3b76b50e770b1103b64b2a1</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g2df8367af0fd5b31de33f7850cdd7bd5">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Ocean Life Video Clips</title>
+        <identifierref>g840e95cfa96e417e6fcfee87f713e1b1</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gf4f3c309d82d982a3f89c90467191d44">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Write (U6): Ocean Life Video Clips</title>
+        <identifierref>g5583f4ce7339a7deded3e19c23d01d36</identifierref>
+        <position>8</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g10cac25053f2c336cb95f0493f6c0154">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U6): Oceans and Coastlines</title>
+        <identifierref>g2e4456750536723d6939eab25d46d0c5</identifierref>
+        <position>9</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="g5d47c1668105c548e4be029f65cffe7d">
+    <title>Unit 7: Atmosphere, Weather, Energy &amp; Pollution</title>
+    <workflow_state>active</workflow_state>
+    <position>8</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g7b19d797f59c65ca3b81af9e51202a8c">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 7 Objectives</title>
+        <identifierref>g6026d1538135da703f148719c86a70fd</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g0f6ad03b1821adff1f0047009823c13c">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 17 - The Atmosphere</title>
+        <identifierref>g03dc958bc189839682f26b700fd1907c</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g90878f8914ffb2104fd78b42f3546f22">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U7): The Atmosphere</title>
+        <identifierref>g1450b43451d0fcd5caedfc5dae66efe9</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gce4b80944c52d2954563899d60906734">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U7): Air Pollution</title>
+        <identifierref>g8a53851faa3fca395531effffdb332b4</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g119d5f6221258900745295929932bbfa">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 18 - Energy Balance in the Atmosphere</title>
+        <identifierref>ga0ea63bef3905f2864e037f791800e39</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g797edc6df72a794cdbcb383fd34ba701">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 19 - Moisture, Clouds and Weather</title>
+        <identifierref>g15304531cb9dda677c6d59eddc995aa3</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="gaa501e252976b2a3ae9d811a23f0e496">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Eyes in Outer Space - A Disney Educational Film on Weather</title>
+        <identifierref>g0cbce504b7d218b10cd53d68d6ee66f4</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gc19d727a23c40e3977646b42cf7e59fa">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U7): Albedo</title>
+        <identifierref>g71f06724537cb8cdaf773221b0181b01</identifierref>
+        <position>8</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="gf03a6d2dc630510db35d0973964c157d">
+    <title>Unit 8: Climate &amp; Climate Change</title>
+    <workflow_state>active</workflow_state>
+    <position>9</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g2dd49925787bc7dc4c0b46263f18482f">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Unit 8 Objectives</title>
+        <identifierref>g1a06e444ea6f999d634afcec69c41452</identifierref>
+        <position>1</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g730da0a46e68ee409af6c15ced571459">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 20 - Climate</title>
+        <identifierref>g2f4223e87683db77a99bf742f3bab611</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g496c996f8be9ea13921dd3fac0197e5e">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Quiz (U8):  Climate</title>
+        <identifierref>g8972d9403c7dcc0b8ec13b240e4dabfa</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gd0bced8c336b6d1d62db12ed90d936b9">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U8): Hardiness Zones &amp; Micro Climate</title>
+        <identifierref>g4cb6b17506b51336fb95b057559291f9</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g9e6c99ff8ebe3adcaa60ad5add041e7a">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Read: Chapter 21 - Climate Change</title>
+        <identifierref>g76ec24b6098de69eefb851cdf4805855</identifierref>
+        <position>5</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g8bcea5419aec171632aedda117cfbeea">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Watch: Disruption movie</title>
+        <identifierref>g96e9717e7401deba52dfc48a47cd7aae</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+      <item identifier="g39d210fba0c51724506f953ab4e16dc4">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Discuss (U8): Climate Change &amp; the "Disruption" Movie</title>
+        <identifierref>gb3df68235ad2528321d1cccdfdf84535</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g6aba04350b85504d283fcca23c754da6">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Final Exam</title>
+        <identifierref>g012b833334fd4a9f63baa39d2cd06dda</identifierref>
+        <position>8</position>
+        <new_tab/>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+</modules>

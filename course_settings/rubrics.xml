@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rubrics xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <rubric identifier="g33a50432b8287e1691ddc56c889e8a16">
+    <external_identifier>2020171</external_identifier>
+    <read_only>true</read_only>
+    <title>CASS Rubric for Writing Assignments - 50 pt (v1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>50.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>_2822</criterion_id>
+        <points>5.0</points>
+        <description>Grammar and Spelling</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>5.0</points>
+            <criterion_id>_2822</criterion_id>
+            <long_description>• Proper use of grammar and punctuation. 
+• Proper spelling.</long_description>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Adequate with Errors</description>
+            <points>3.0</points>
+            <criterion_id>_2822</criterion_id>
+            <long_description>Some spelling and/or grammatical errors.</long_description>
+            <id>2020171_6614</id>
+          </rating>
+          <rating>
+            <description>Significant Errors</description>
+            <points>0.0</points>
+            <criterion_id>_2822</criterion_id>
+            <long_description>Unacceptable number of grammatical and/or spelling errors.</long_description>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2020171_4631</criterion_id>
+        <points>10.0</points>
+        <description>Style and Coherence</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>2020171_4631</criterion_id>
+            <long_description>• Sentences are complete in thought. • Sentences are concise, eliminating unnecessary words or phrases. • Sentences vary in structure. • Sentence transitions are present. • Words used are precise, unambiguous and used properly. • There is an appropriate tone for the assignment.</long_description>
+            <id>2020171_39</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>5.0</points>
+            <criterion_id>2020171_4631</criterion_id>
+            <long_description>• Sentences are somewhat complete in thought. • Sentences should be more concise, with fewer unnecessary words or phrases. • Sentence structure needs more variety. • Sentence transitions need further development. • More effort needed to use words more precisely and unambiguously. • Further attention to the tone of the assignment is needed to align with the objectives and requirements of the assignment.</long_description>
+            <id>2020171_370</id>
+          </rating>
+          <rating>
+            <description>Poorly Developed</description>
+            <points>0.0</points>
+            <criterion_id>2020171_4631</criterion_id>
+            <long_description>• Sentences are not complete in thought nor concise. • Sentences do not vary in structure. • Sentence transitions are underdeveloped. • Words used are generalized and ambiguous. • There is an inappropriate tone for the assignment that does not reflect the objectives/requirements of the assignment.</long_description>
+            <id>2020171_9265</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2020171_4223</criterion_id>
+        <points>10.0</points>
+        <description>Organization</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>2020171_4223</criterion_id>
+            <long_description>• There is clear structure to the paper . • There is a central theme or thesis. • It is written for the appropriate audience. • Logical flow of ideas. • Appropriate introduction to the paper or topics being covered. • A logical conclusion based on the thesis is evident.</long_description>
+            <id>2020171_4840</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>5.0</points>
+            <criterion_id>2020171_4223</criterion_id>
+            <long_description>• There is some structure to the paper - may need development. • There is an adequate central theme or thesis - may need development. • Writing for the appropriate audience must be considered. • Logical flow of ideas may require development. • Appropriate introduction to the paper or topics being covered may need development. • A logical conclusion based on the thesis may need development.</long_description>
+            <id>2020171_485</id>
+          </rating>
+          <rating>
+            <description>Poor Organization</description>
+            <points>0.0</points>
+            <criterion_id>2020171_4223</criterion_id>
+            <long_description>• Paper lacks structure. • Central theme or thesis is weak or not readily observable. • Knowledge of appropriate audience is not observable. • Flow of ideas is illogical. • Introduction to the paper or topics being covered is weak or insufficient. • A logical conclusion based on the thesis is not evident.</long_description>
+            <id>2020171_9389</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2020171_6515</criterion_id>
+        <points>5.0</points>
+        <description>Format</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2020171_6515</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (Margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper. • Proper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2020171_1271</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>3.0</points>
+            <criterion_id>2020171_6515</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (margins, header, footer, font size, general amount of work) - may need development • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper - may need development. • Proper citations and references to resources, following APA or Bluebook format - may need development.</long_description>
+            <id>2020171_6405</id>
+          </rating>
+          <rating>
+            <description>Poor Format</description>
+            <points>0.0</points>
+            <criterion_id>2020171_6515</criterion_id>
+            <long_description>• Presentation of materials does not follow general format requirements (margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper are inadequate or non-existent. • Improper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2020171_8578</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2020171_8260</criterion_id>
+        <points>20.0</points>
+        <description>Content</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>20.0</points>
+            <criterion_id>2020171_8260</criterion_id>
+            <long_description>• Purpose of the paper is clear. • All questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated clearly and are supported by details and analysis. • Content is comprehensive, accurate, and/or persuasive. • Integration of theory and practice. • Research is adequate and up-to-date.</long_description>
+            <id>2020171_6910</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>10.0</points>
+            <criterion_id>2020171_8260</criterion_id>
+            <long_description>• Purpose of the paper could be more clear and further developed. • Most questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated somewhat clearly but need more support by using details and analysis. • Content is not comprehensive enough, or lacks accurate, and/or persuasiveness. • Integration of theory and practice. • Research is adequate -may need development or resources may need to be more recent and up-to-date.</long_description>
+            <id>2020171_143</id>
+          </rating>
+          <rating>
+            <description>Needs Attention</description>
+            <points>5.0</points>
+            <criterion_id>2020171_8260</criterion_id>
+            <long_description>• Purpose of the paper is ambiguous and unclear in many respects but not all. • Many questions/requirements of the assignment are not answered in a substantive manner-may need development. • Major topics/theories are not stated clearly and/or may not be supported by details and analysis relevant to the topic. • Content is incomprehensible, inaccurate, and/or not persuasive-may need development. • Integration of theory and practice is missing or weak. • Research is inadequate and/or not up-to-date.</long_description>
+            <id>2020171_2972</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>2020171_8260</criterion_id>
+            <long_description>• Purpose of the paper is unclear-needs reworking. • Few or no questions/requirements of the assignment are answered in a substantive manner-must start from the assignment to build an understanding of the requirements/outcomes for the assignment. • Major topics/theories are not stated clearly and/or are not supported by details and analysis. Assignment needs redevelopment. • Content is not comprehensive, not accurate, and/or not persuasive. Revisit the outcomes and purpose of the assignment. • Integration of theory and practice is not evident and needs attention. • Research is non-existent, inadequate and/or not up-to-date.</long_description>
+            <id>2020171_2873</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="gb101be8cda06949be1d2b1e6d8d18f6f">
+    <external_identifier>2058753</external_identifier>
+    <read_only>true</read_only>
+    <title>CASS Rubric for Discussions - 30 pt (v1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>30.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>_1095</criterion_id>
+        <points>2.5</points>
+        <description>Timeliness</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>2.5</points>
+            <criterion_id>_1095</criterion_id>
+            <long_description>All responses posted by both deadlines</long_description>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Missing or Late</description>
+            <points>1.25</points>
+            <criterion_id>_1095</criterion_id>
+            <long_description>Some Posts Missing or Late</long_description>
+            <id>_9630</id>
+          </rating>
+          <rating>
+            <description>No Responses Posted</description>
+            <points>0.0</points>
+            <criterion_id>_1095</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>_6316</criterion_id>
+        <points>8.0</points>
+        <description>Clarity &amp; Organization</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>8.0</points>
+            <criterion_id>_6316</criterion_id>
+            <long_description>Contributions are clear and concise.</long_description>
+            <id>_5620</id>
+          </rating>
+          <rating>
+            <description>Generally Clear and Concise</description>
+            <points>6.0</points>
+            <criterion_id>_6316</criterion_id>
+            <long_description>Contributions are generally clear and concise.</long_description>
+            <id>_101</id>
+          </rating>
+          <rating>
+            <description>Brief Contributions</description>
+            <points>4.0</points>
+            <criterion_id>_6316</criterion_id>
+            <long_description>Contributions are brief and limited.</long_description>
+            <id>_3854</id>
+          </rating>
+          <rating>
+            <description>Minimal Contributions</description>
+            <points>2.0</points>
+            <criterion_id>_6316</criterion_id>
+            <long_description>Contributions are minimal.</long_description>
+            <id>_4067</id>
+          </rating>
+          <rating>
+            <description>Pervasive Errors</description>
+            <points>0.0</points>
+            <criterion_id>_6316</criterion_id>
+            <long_description>Pervasive grammatical and/or mechanical writing errors.</long_description>
+            <id>_6460</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>_8059</criterion_id>
+        <points>5.0</points>
+        <description>Grammar and Mechanics</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>_8059</criterion_id>
+            <long_description>Contributions are mechanically and grammatically correct.</long_description>
+            <id>_904</id>
+          </rating>
+          <rating>
+            <description>Few Errors</description>
+            <points>3.0</points>
+            <criterion_id>_8059</criterion_id>
+            <long_description>Contributions contain few mechanical and/or grammatical errors.</long_description>
+            <id>2058753_2644</id>
+          </rating>
+          <rating>
+            <description>Frequent Errors</description>
+            <points>2.0</points>
+            <criterion_id>_8059</criterion_id>
+            <long_description>Frequent grammatical and/or mechanical writing errors.</long_description>
+            <id>2058753_3082</id>
+          </rating>
+          <rating>
+            <description>Significant Errors</description>
+            <points>1.0</points>
+            <criterion_id>_8059</criterion_id>
+            <long_description>Significant grammatical and/or mechanical writing errors.</long_description>
+            <id>_6234</id>
+          </rating>
+          <rating>
+            <description>No Responses Posted</description>
+            <points>0.0</points>
+            <criterion_id>_8059</criterion_id>
+            <id>_8624</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058753_197</criterion_id>
+        <points>2.5</points>
+        <description>Frequency</description>
+        <ratings>
+          <rating>
+            <description>Full Participation</description>
+            <points>2.5</points>
+            <criterion_id>2058753_197</criterion_id>
+            <long_description>Original post &amp; two responses to your classmates’ ideas.</long_description>
+            <id>2058753_4317</id>
+          </rating>
+          <rating>
+            <description>Partial Response</description>
+            <points>1.5</points>
+            <criterion_id>2058753_197</criterion_id>
+            <long_description>Original post and one response to your classmates' ideas.</long_description>
+            <id>2058753_5253</id>
+          </rating>
+          <rating>
+            <description>Missing Response</description>
+            <points>1.0</points>
+            <criterion_id>2058753_197</criterion_id>
+            <long_description>Original post but no response to your classmates' ideas.</long_description>
+            <id>2058753_365</id>
+          </rating>
+          <rating>
+            <description>No Posts</description>
+            <points>0.0</points>
+            <criterion_id>2058753_197</criterion_id>
+            <long_description>No original post or response to classmates' ideas.</long_description>
+            <id>2058753_3258</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058753_1828</criterion_id>
+        <points>12.0</points>
+        <description>Breadth and Depth of Responses</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>12.0</points>
+            <criterion_id>2058753_1828</criterion_id>
+            <long_description>Contributions are thoughtful, include original evaluation, synthesis or analysis of the topic on the discussion board. Responses are relevant, meaningful, tactful, and original. Responses advance the discussion on the discussion board. Three responses of 50-100 words each.</long_description>
+            <id>2058753_896</id>
+          </rating>
+          <rating>
+            <description>Average Contributions</description>
+            <points>9.0</points>
+            <criterion_id>2058753_1828</criterion_id>
+            <long_description>Contributions are thoughtful, original, and have some synthesis, analysis and evaluation of topic. Responses are original and thoughtful, but limited in analysis of topic. Two responses of 50-100 words each, other responses shorter.</long_description>
+            <id>2058753_62</id>
+          </rating>
+          <rating>
+            <description>Adequate Contributions</description>
+            <points>6.0</points>
+            <criterion_id>2058753_1828</criterion_id>
+            <long_description>Postings give adequate, original explanation but limited analysis of topic. Responses add no meaning to discussion, repetitive of reading or other students. One response of 50-100 words, other responses shorter.</long_description>
+            <id>2058753_6762</id>
+          </rating>
+          <rating>
+            <description>Inadequate Contributions</description>
+            <points>3.0</points>
+            <criterion_id>2058753_1828</criterion_id>
+            <long_description>Inadequate explanation, confusing, or irrelevant postings with only repetition of readings, no original thought. Responses off-topic, irrelevant.</long_description>
+            <id>2058753_7582</id>
+          </rating>
+          <rating>
+            <description>Failed Contributions</description>
+            <points>0.0</points>
+            <criterion_id>2058753_1828</criterion_id>
+            <long_description>Postings are brief statements, off-topic, inappropriate, or abusive responses.</long_description>
+            <id>2058753_4797</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="g95c17521bd104c1008d8f05fde7c78a7">
+    <external_identifier>2058823</external_identifier>
+    <read_only>true</read_only>
+    <title>CASS Rubric for Writing Assignments - 40 pt (v1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>40.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>_2546</criterion_id>
+        <points>5.0</points>
+        <description>Grammar and Spelling</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>5.0</points>
+            <criterion_id>_2546</criterion_id>
+            <long_description>• Proper use of grammar and punctuation. • Proper spelling.</long_description>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Adequate with Errors</description>
+            <points>3.0</points>
+            <criterion_id>_2546</criterion_id>
+            <long_description>Some spelling and/or grammatical errors.</long_description>
+            <id>2058823_4299</id>
+          </rating>
+          <rating>
+            <description>Significant Errors</description>
+            <points>0.0</points>
+            <criterion_id>_2546</criterion_id>
+            <long_description>Unacceptable number of grammatical and/or spelling errors.</long_description>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058823_3891</criterion_id>
+        <points>10.0</points>
+        <description>Style and Coherence</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>2058823_3891</criterion_id>
+            <long_description>• Sentences are complete in thought. • Sentences are concise, eliminating unnecessary words or phrases. • Sentences vary in structure. • Sentence transitions are present. • Words used are precise, unambiguous and used properly. • There is an appropriate tone for the assignment.</long_description>
+            <id>2058823_2117</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>5.0</points>
+            <criterion_id>2058823_3891</criterion_id>
+            <long_description>• Sentences are somewhat complete in thought. • Sentences should be more concise, with fewer unnecessary words or phrases. • Sentence structure needs more variety. • Sentence transitions need further development. • More effort needed to use words more precisely and unambiguously. • Further attention to the tone of the assignment is needed to align with the objectives and requirements of the assignment.</long_description>
+            <id>2058823_4718</id>
+          </rating>
+          <rating>
+            <description>Poorly Developed</description>
+            <points>0.0</points>
+            <criterion_id>2058823_3891</criterion_id>
+            <long_description>• Sentences are not complete in thought nor concise. • Sentences do not vary in structure. • Sentence transitions are underdeveloped. • Words used are generalized and ambiguous. • There is an inappropriate tone for the assignment that does not reflect the objectives/requirements of the assignment.</long_description>
+            <id>2058823_270</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058823_6877</criterion_id>
+        <points>5.0</points>
+        <description>Organization</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2058823_6877</criterion_id>
+            <long_description>• There is clear structure to the paper . • There is a central theme or thesis. • It is written for the appropriate audience. • Logical flow of ideas. • Appropriate introduction to the paper or topics being covered. • A logical conclusion based on the thesis is evident.</long_description>
+            <id>2058823_2347</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>2.5</points>
+            <criterion_id>2058823_6877</criterion_id>
+            <long_description>• There is some structure to the paper - may need development. • There is an adequate central theme or thesis - may need development. • Writing for the appropriate audience must be considered. • Logical flow of ideas may require development. • Appropriate introduction to the paper or topics being covered may need development. • A logical conclusion based on the thesis may need development.</long_description>
+            <id>2058823_1260</id>
+          </rating>
+          <rating>
+            <description>Poor Organization</description>
+            <points>0.0</points>
+            <criterion_id>2058823_6877</criterion_id>
+            <long_description>• Paper lacks structure. • Central theme or thesis is weak or not readily observable. • Knowledge of appropriate audience is not observable. • Flow of ideas is illogical. • Introduction to the paper or topics being covered is weak or insufficient. • A logical conclusion based on the thesis is not evident.</long_description>
+            <id>2058823_3613</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058823_299</criterion_id>
+        <points>5.0</points>
+        <description>Format</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2058823_299</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (Margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper. • Proper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2058823_759</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>3.0</points>
+            <criterion_id>2058823_299</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (margins, header, footer, font size, general amount of work) - may need development • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper - may need development. • Proper citations and references to resources, following APA or Bluebook format - may need development.</long_description>
+            <id>2058823_4215</id>
+          </rating>
+          <rating>
+            <description>Poor Format</description>
+            <points>0.0</points>
+            <criterion_id>2058823_299</criterion_id>
+            <long_description>• Presentation of materials does not follow general format requirements (margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper are inadequate or non-existent. • Improper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2058823_2881</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058823_6180</criterion_id>
+        <points>15.0</points>
+        <description>Content</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>15.0</points>
+            <criterion_id>2058823_6180</criterion_id>
+            <long_description>• Purpose of the paper is clear. • All questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated clearly and are supported by details and analysis. • Content is comprehensive, accurate, and/or persuasive. • Integration of theory and practice. • Research is adequate and up-to-date.</long_description>
+            <id>2058823_9526</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>10.0</points>
+            <criterion_id>2058823_6180</criterion_id>
+            <long_description>• Purpose of the paper could be more clear and further developed. • Most questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated somewhat clearly but need more support by using details and analysis. • Content is not comprehensive enough, or lacks accurate, and/or persuasiveness. • Integration of theory and practice. • Research is adequate -may need development or resources may need to be more recent and up-to-date.</long_description>
+            <id>2058823_6104</id>
+          </rating>
+          <rating>
+            <description>Needs Attention</description>
+            <points>5.0</points>
+            <criterion_id>2058823_6180</criterion_id>
+            <long_description>• Purpose of the paper is ambiguous and unclear in many respects but not all. • Many questions/requirements of the assignment are not answered in a substantive manner-may need development. • Major topics/theories are not stated clearly and/or may not be supported by details and analysis relevant to the topic. • Content is incomprehensible, inaccurate, and/or not persuasive-may need development. • Integration of theory and practice is missing or weak. • Research is inadequate and/or not up-to-date.</long_description>
+            <id>2058823_9340</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>2058823_6180</criterion_id>
+            <long_description>• Purpose of the paper is unclear-needs reworking. • Few or no questions/requirements of the assignment are answered in a substantive manner-must start from the assignment to build an understanding of the requirements/outcomes for the assignment. • Major topics/theories are not stated clearly and/or are not supported by details and analysis. Assignment needs redevelopment. • Content is not comprehensive, not accurate, and/or not persuasive. Revisit the outcomes and purpose of the assignment. • Integration of theory and practice is not evident and needs attention. • Research is non-existent, inadequate and/or not up-to-date.</long_description>
+            <id>2058823_6887</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="gc3329b5e49d96f6bd946a157a00de9ed">
+    <external_identifier>2058867</external_identifier>
+    <read_only>true</read_only>
+    <title>CASS Rubric for Writing Assignments - 30 pt (v1)</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>30.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>_7495</criterion_id>
+        <points>5.0</points>
+        <description>Grammar and Spelling</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>5.0</points>
+            <criterion_id>_7495</criterion_id>
+            <long_description>• Proper use of grammar and punctuation. • Proper spelling.</long_description>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Adequate with Errors</description>
+            <points>3.0</points>
+            <criterion_id>_7495</criterion_id>
+            <long_description>Some spelling and/or grammatical errors.</long_description>
+            <id>2058867_4478</id>
+          </rating>
+          <rating>
+            <description>Significant Errors</description>
+            <points>0.0</points>
+            <criterion_id>_7495</criterion_id>
+            <long_description>Unacceptable number of grammatical and/or spelling errors.</long_description>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058867_2252</criterion_id>
+        <points>5.0</points>
+        <description>Style and Coherence</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2058867_2252</criterion_id>
+            <long_description>• Sentences are complete in thought. • Sentences are concise, eliminating unnecessary words or phrases. • Sentences vary in structure. • Sentence transitions are present. • Words used are precise, unambiguous and used properly. • There is an appropriate tone for the assignment.</long_description>
+            <id>2058867_916</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>2.5</points>
+            <criterion_id>2058867_2252</criterion_id>
+            <long_description>• Sentences are somewhat complete in thought. • Sentences should be more concise, with fewer unnecessary words or phrases. • Sentence structure needs more variety. • Sentence transitions need further development. • More effort needed to use words more precisely and unambiguously. • Further attention to the tone of the assignment is needed to align with the objectives and requirements of the assignment.</long_description>
+            <id>2058867_1561</id>
+          </rating>
+          <rating>
+            <description>Poorly Developed</description>
+            <points>0.0</points>
+            <criterion_id>2058867_2252</criterion_id>
+            <long_description>• Sentences are not complete in thought nor concise. • Sentences do not vary in structure. • Sentence transitions are underdeveloped. • Words used are generalized and ambiguous. • There is an inappropriate tone for the assignment that does not reflect the objectives/requirements of the assignment.</long_description>
+            <id>2058867_4140</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058867_651</criterion_id>
+        <points>5.0</points>
+        <description>Organization</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2058867_651</criterion_id>
+            <long_description>• There is clear structure to the paper . • There is a central theme or thesis. • It is written for the appropriate audience. • Logical flow of ideas. • Appropriate introduction to the paper or topics being covered. • A logical conclusion based on the thesis is evident.</long_description>
+            <id>2058867_838</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>2.5</points>
+            <criterion_id>2058867_651</criterion_id>
+            <long_description>• There is some structure to the paper - may need development. • There is an adequate central theme or thesis - may need development. • Writing for the appropriate audience must be considered. • Logical flow of ideas may require development. • Appropriate introduction to the paper or topics being covered may need development. • A logical conclusion based on the thesis may need development.</long_description>
+            <id>2058867_4573</id>
+          </rating>
+          <rating>
+            <description>Poor Organization</description>
+            <points>0.0</points>
+            <criterion_id>2058867_651</criterion_id>
+            <long_description>• Paper lacks structure. • Central theme or thesis is weak or not readily observable. • Knowledge of appropriate audience is not observable. • Flow of ideas is illogical. • Introduction to the paper or topics being covered is weak or insufficient. • A logical conclusion based on the thesis is not evident.</long_description>
+            <id>2058867_1041</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058867_202</criterion_id>
+        <points>5.0</points>
+        <description>Format</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>5.0</points>
+            <criterion_id>2058867_202</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (Margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper. • Proper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2058867_1284</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>3.0</points>
+            <criterion_id>2058867_202</criterion_id>
+            <long_description>• Orderly presentation of materials, following. general format requirements (margins, header, footer, font size, general amount of work) - may need development • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper - may need development. • Proper citations and references to resources, following APA or Bluebook format - may need development.</long_description>
+            <id>2058867_9343</id>
+          </rating>
+          <rating>
+            <description>Poor Format</description>
+            <points>0.0</points>
+            <criterion_id>2058867_202</criterion_id>
+            <long_description>• Presentation of materials does not follow general format requirements (margins, header, footer, font size, general amount of work). • Use of headings, italics, and other aids (e.g., appendices, tables of contents, when appropriate) to improve the flow of the paper are inadequate or non-existent. • Improper citations and references to resources, following APA or Bluebook format.</long_description>
+            <id>2058867_2643</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>2058867_8466</criterion_id>
+        <points>10.0</points>
+        <description>Content</description>
+        <ratings>
+          <rating>
+            <description>Full Marks</description>
+            <points>10.0</points>
+            <criterion_id>2058867_8466</criterion_id>
+            <long_description>• Purpose of the paper is clear. • All questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated clearly and are supported by details and analysis. • Content is comprehensive, accurate, and/or persuasive. • Integration of theory and practice. • Research is adequate and up-to-date.</long_description>
+            <id>2058867_6942</id>
+          </rating>
+          <rating>
+            <description>Emerging</description>
+            <points>8.0</points>
+            <criterion_id>2058867_8466</criterion_id>
+            <long_description>• Purpose of the paper could be more clear and further developed. • Most questions/requirements of the assignment are answered in a substantive manner. • Major topics/theories are stated somewhat clearly but need more support by using details and analysis. • Content is not comprehensive enough, or lacks accurate, and/or persuasiveness. • Integration of theory and practice. • Research is adequate -may need development or resources may need to be more recent and up-to-date.</long_description>
+            <id>2058867_6387</id>
+          </rating>
+          <rating>
+            <description>Needs Attention</description>
+            <points>5.0</points>
+            <criterion_id>2058867_8466</criterion_id>
+            <long_description>• Purpose of the paper is ambiguous and unclear in many respects but not all. • Many questions/requirements of the assignment are not answered in a substantive manner-may need development. • Major topics/theories are not stated clearly and/or may not be supported by details and analysis relevant to the topic. • Content is incomprehensible, inaccurate, and/or not persuasive-may need development. • Integration of theory and practice is missing or weak. • Research is inadequate and/or not up-to-date.</long_description>
+            <id>2058867_6624</id>
+          </rating>
+          <rating>
+            <description>No Marks</description>
+            <points>0.0</points>
+            <criterion_id>2058867_8466</criterion_id>
+            <long_description>• Purpose of the paper is unclear-needs reworking. • Few or no questions/requirements of the assignment are answered in a substantive manner-must start from the assignment to build an understanding of the requirements/outcomes for the assignment. • Major topics/theories are not stated clearly and/or are not supported by details and analysis. Assignment needs redevelopment. • Content is not comprehensive, not accurate, and/or not persuasive. Revisit the outcomes and purpose of the assignment. • Integration of theory and practice is not evident and needs attention. • Research is non-existent, inadequate and/or not up-to-date.</long_description>
+            <id>2058867_3839</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+</rubrics>
